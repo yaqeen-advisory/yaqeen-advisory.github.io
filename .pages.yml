@@ -1,0 +1,1552 @@
+# Editing-screen layout for Pages CMS (app.pagescms.org). Regenerate with: python3 tools/make-cms-config.py
+media:
+  input: static/assets/uploads
+  output: /assets/uploads
+content:
+- name: services
+  label: Services
+  type: collection
+  path: content/services
+  format: json
+  fields:
+  - name: title
+    label: Page heading (H1)
+    type: string
+    required: true
+  - name: navLabel
+    label: Short name used in menus and links
+    type: string
+  - name: parent
+    label: Belongs to (leave blank for a main service)
+    type: select
+    options:
+      values:
+      - ''
+      - accounting-bookkeeping
+      - audit-support
+      - finance-automation
+      - financial-reporting
+      - fpa-cfo-advisory
+      - payroll
+      - taxation
+  - name: order
+    label: Order in lists (1 = first)
+    type: number
+  - name: icon
+    label: Icon
+    type: select
+    options:
+      values: &id002
+      - book
+      - calendar
+      - chart
+      - shield
+      - message
+      - receipt
+      - percent
+      - users
+      - file
+      - trend
+      - search
+      - layers
+      - globe
+      - link
+      - sliders
+      - clock
+      - bank
+      - wallet
+      - zap
+      - gear
+      - lock
+      - check
+      - target
+      - mail
+      - rocket
+      - building
+      - store
+      - trendup
+      - handshake
+  - name: markets
+    label: Markets
+    type: select
+    options:
+      values:
+      - india
+      - uae
+      - saudi-arabia
+    list: true
+  - name: kind
+    label: How it is delivered
+    type: select
+    options:
+      values:
+      - subscription
+      - project
+      - both
+  - name: summary
+    label: Short summary (used on cards)
+    type: text
+  - name: metaTitle
+    label: Search title (under about 60 characters)
+    type: string
+  - name: metaDescription
+    label: Search description (140 to 160 characters)
+    type: text
+  - name: heroIntro
+    label: Intro text in the top banner
+    type: text
+  - name: overview
+    label: Overview paragraphs
+    type: rich-text
+  - name: whatWeDo
+    label: What we do (one point each)
+    type: string
+    list: true
+  - name: whoFor
+    label: Who this is for
+    type: string
+    list: true
+  - name: byPlan
+    label: How it changes by plan
+    type: object
+    fields:
+    - name: foundation
+      label: Foundation
+      type: text
+    - name: growth
+      label: Growth
+      type: text
+    - name: cfo
+      label: CFO
+      type: text
+  - name: duration
+    label: Typical timeline (projects)
+    type: string
+  - name: note
+    label: Highlighted note
+    type: text
+  - &id001
+    name: faqs
+    label: Frequently asked questions
+    type: object
+    fields:
+    - name: q
+      label: Question
+      type: string
+    - name: a
+      label: Answer
+      type: text
+    list: true
+  - name: related
+    label: Related services
+    type: select
+    options:
+      values:
+      - accounting-bookkeeping
+      - accounting-system-setup
+      - accounts-catch-up
+      - audit-readiness
+      - audit-support
+      - automation-retainer
+      - books-cleanup
+      - cash-flow-forecasting
+      - consolidation-group-reporting
+      - controls-sop-review
+      - cost-pricing-analysis
+      - dashboard-reporting-build
+      - due-diligence-support
+      - finance-automation
+      - financial-modelling
+      - financial-reporting
+      - financial-statements-ifrs
+      - fpa-cfo-advisory
+      - fraud-anomaly-review
+      - gst-india
+      - internal-audit
+      - mis-dashboards
+      - payroll
+      - payroll-india
+      - payroll-saudi-wps-gosi
+      - payroll-uae-wps
+      - saudi-vat-zatca-e-invoicing
+      - taxation
+      - tds-income-tax-india
+      - uae-corporate-tax
+      - uae-vat
+      - workflow-automation
+      - zakat-income-tax-saudi-arabia
+    list: true
+  - name: body
+    label: Extra content (optional)
+    type: rich-text
+  view:
+    fields:
+    - title
+    - parent
+    primary: title
+- name: insights
+  label: Insights (articles)
+  type: collection
+  path: content/insights
+  format: json
+  fields:
+  - name: title
+    label: Title
+    type: string
+    required: true
+  - name: date
+    label: Publish date
+    type: date
+  - name: updated
+    label: Last updated (optional)
+    type: date
+  - name: category
+    label: Category
+    type: string
+  - name: author
+    label: Author
+    type: string
+  - name: summary
+    label: Short summary (shown on cards and in Google)
+    type: text
+  - name: metaTitle
+    label: Search title (optional)
+    type: string
+  - name: metaDescription
+    label: Search description (optional)
+    type: text
+  - name: related
+    label: Related services
+    type: select
+    options:
+      values:
+      - accounting-bookkeeping
+      - accounting-system-setup
+      - accounts-catch-up
+      - audit-readiness
+      - audit-support
+      - automation-retainer
+      - books-cleanup
+      - cash-flow-forecasting
+      - consolidation-group-reporting
+      - controls-sop-review
+      - cost-pricing-analysis
+      - dashboard-reporting-build
+      - due-diligence-support
+      - finance-automation
+      - financial-modelling
+      - financial-reporting
+      - financial-statements-ifrs
+      - fpa-cfo-advisory
+      - fraud-anomaly-review
+      - gst-india
+      - internal-audit
+      - mis-dashboards
+      - payroll
+      - payroll-india
+      - payroll-saudi-wps-gosi
+      - payroll-uae-wps
+      - saudi-vat-zatca-e-invoicing
+      - taxation
+      - tds-income-tax-india
+      - uae-corporate-tax
+      - uae-vat
+      - workflow-automation
+      - zakat-income-tax-saudi-arabia
+    list: true
+  - name: draft
+    label: Hide this article (draft)
+    type: boolean
+  - name: body
+    label: Article
+    type: rich-text
+  view:
+    fields:
+    - title
+    - date
+    primary: title
+- name: markets
+  label: Markets (India, UAE, Saudi Arabia, GCC)
+  type: collection
+  path: content/markets
+  format: json
+  fields:
+  - name: title
+    label: Page heading (H1)
+    type: string
+    required: true
+  - name: navLabel
+    label: Short name
+    type: string
+  - name: order
+    label: Order
+    type: number
+  - name: eyebrow
+    label: Eyebrow
+    type: string
+  - name: menuText
+    label: One-line description in menu
+    type: string
+  - name: summary
+    label: Short summary
+    type: text
+  - name: metaTitle
+    label: Search title
+    type: string
+  - name: metaDescription
+    label: Search description
+    type: text
+  - name: heroHeading
+    label: Banner heading
+    type: string
+  - name: heroIntro
+    label: Banner intro
+    type: text
+  - name: pills
+    label: Small tags
+    type: string
+    list: true
+  - name: overview
+    label: Overview
+    type: rich-text
+  - name: howHeading
+    label: Heading for the list below
+    type: string
+  - name: howWeServe
+    label: What you get (one point each)
+    type: string
+    list: true
+  - name: highlightsHeading
+    label: Heading for the cards
+    type: string
+  - name: highlights
+    label: Cards
+    type: object
+    fields:
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - name: services
+    label: Services to show
+    type: select
+    options:
+      values:
+      - accounting-bookkeeping
+      - accounting-system-setup
+      - accounts-catch-up
+      - audit-readiness
+      - audit-support
+      - automation-retainer
+      - books-cleanup
+      - cash-flow-forecasting
+      - consolidation-group-reporting
+      - controls-sop-review
+      - cost-pricing-analysis
+      - dashboard-reporting-build
+      - due-diligence-support
+      - finance-automation
+      - financial-modelling
+      - financial-reporting
+      - financial-statements-ifrs
+      - fpa-cfo-advisory
+      - fraud-anomaly-review
+      - gst-india
+      - internal-audit
+      - mis-dashboards
+      - payroll
+      - payroll-india
+      - payroll-saudi-wps-gosi
+      - payroll-uae-wps
+      - saudi-vat-zatca-e-invoicing
+      - taxation
+      - tds-income-tax-india
+      - uae-corporate-tax
+      - uae-vat
+      - workflow-automation
+      - zakat-income-tax-saudi-arabia
+    list: true
+  - name: note
+    label: Highlighted note
+    type: text
+  - *id001
+  view:
+    fields:
+    - title
+    primary: title
+- name: solutions
+  label: Who we serve
+  type: collection
+  path: content/solutions
+  format: json
+  fields:
+  - name: title
+    label: Page heading (H1)
+    type: string
+    required: true
+  - name: navLabel
+    label: Short name
+    type: string
+  - name: order
+    label: Order
+    type: number
+  - name: icon
+    label: Icon
+    type: select
+    options:
+      values: *id002
+  - name: eyebrow
+    label: Eyebrow
+    type: string
+  - name: menuText
+    label: One-line description in menu
+    type: string
+  - name: summary
+    label: Short summary
+    type: text
+  - name: metaTitle
+    label: Search title
+    type: string
+  - name: metaDescription
+    label: Search description
+    type: text
+  - name: heroHeading
+    label: Banner heading
+    type: string
+  - name: heroIntro
+    label: Banner intro
+    type: text
+  - name: challengesHeading
+    label: Challenges heading
+    type: string
+  - name: challenges
+    label: Challenges
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - name: helpHeading
+    label: Help heading
+    type: string
+  - name: howWeHelp
+    label: How we help
+    type: object
+    fields:
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: link
+      label: Link (e.g. /services/taxation/)
+      type: string
+    - name: linkLabel
+      label: Link text
+      type: string
+    list: true
+  - name: recommendedPlan
+    label: Suggested plan
+    type: select
+    options:
+      values:
+      - foundation
+      - growth
+      - cfo
+  - name: planHeading
+    label: Plan heading
+    type: string
+  - name: planText
+    label: Plan text
+    type: text
+  - name: services
+    label: Services to show
+    type: select
+    options:
+      values:
+      - accounting-bookkeeping
+      - accounting-system-setup
+      - accounts-catch-up
+      - audit-readiness
+      - audit-support
+      - automation-retainer
+      - books-cleanup
+      - cash-flow-forecasting
+      - consolidation-group-reporting
+      - controls-sop-review
+      - cost-pricing-analysis
+      - dashboard-reporting-build
+      - due-diligence-support
+      - finance-automation
+      - financial-modelling
+      - financial-reporting
+      - financial-statements-ifrs
+      - fpa-cfo-advisory
+      - fraud-anomaly-review
+      - gst-india
+      - internal-audit
+      - mis-dashboards
+      - payroll
+      - payroll-india
+      - payroll-saudi-wps-gosi
+      - payroll-uae-wps
+      - saudi-vat-zatca-e-invoicing
+      - taxation
+      - tds-income-tax-india
+      - uae-corporate-tax
+      - uae-vat
+      - workflow-automation
+      - zakat-income-tax-saudi-arabia
+    list: true
+  - *id001
+  view:
+    fields:
+    - title
+    primary: title
+- name: home
+  label: Homepage
+  type: file
+  path: content/pages/home.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: primaryLabel
+      label: Primary label
+      type: string
+    - name: primaryUrl
+      label: Primary url
+      type: string
+    - name: secondaryLabel
+      label: Secondary label
+      type: string
+    - name: secondaryUrl
+      label: Secondary url
+      type: string
+    - name: markets
+      label: Country tags
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: url
+        label: Url
+        type: string
+      list: true
+  - name: valueProps
+    label: Four promises under the banner
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - name: why
+    label: Why Yaqeen
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: ai
+      label: Dark box
+      type: object
+      fields:
+      - name: title
+        label: Title
+        type: string
+      - name: text
+        label: Text
+        type: text
+    - name: built
+      label: Sand box
+      type: object
+      fields:
+      - name: title
+        label: Title
+        type: string
+      - name: text
+        label: Text
+        type: text
+  - name: servicesIntro
+    label: Services section intro
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+  - name: marketsIntro
+    label: Markets section intro
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+  - name: steps
+    label: Getting started
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: items
+      label: Steps
+      type: object
+      fields:
+      - name: title
+        label: Title
+        type: string
+      - name: text
+        label: Text
+        type: text
+      list: true
+  - name: rhythm
+    label: Month at a glance
+    type: object
+    fields:
+    - name: heading
+      label: Heading
+      type: string
+    - name: steps
+      label: Month at a glance
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: text
+        label: Text
+        type: string
+      list: true
+  - name: plansTeaser
+    label: Plans section intro
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+  - name: solutionsIntro
+    label: Who we serve intro
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+  - name: trust
+    label: Tools and trust
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: stack
+      label: Tools
+      type: object
+      fields:
+      - name: icon
+        label: Icon
+        type: select
+        options:
+          values: *id002
+      - name: title
+        label: Title
+        type: string
+      - name: text
+        label: Text
+        type: text
+      list: true
+    - name: protectHeading
+      label: Protect heading
+      type: string
+    - name: protect
+      label: How we protect your business
+      type: string
+      list: true
+  - *id001
+  - name: cta
+    label: Closing call to action
+    type: object
+    fields:
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+- name: plans
+  label: Plans page
+  type: file
+  path: content/pages/plans.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+  - name: layers
+    label: Three layers section
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: items
+      label: Three layers
+      type: object
+      fields:
+      - name: title
+        label: Title
+        type: string
+      - name: cadence
+        label: Cadence
+        type: string
+      - name: text
+        label: Text
+        type: text
+      - name: pricing
+        label: Pricing
+        type: string
+      list: true
+    - name: note
+      label: Note
+      type: text
+  - name: priceDrivers
+    label: What moves the price
+    type: object
+    fields:
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - name: tiersHeading
+    label: Tiers heading
+    type: string
+  - name: tiersText
+    label: Tiers text
+    type: text
+  - name: tiers
+    label: Tiers
+    type: object
+    fields:
+    - name: id
+      label: Id
+      type: select
+      options:
+        values:
+        - foundation
+        - growth
+        - cfo
+    - name: name
+      label: Name
+      type: string
+    - name: tagline
+      label: Tagline
+      type: string
+    - name: bestFor
+      label: Best for
+      type: text
+    - name: features
+      label: Features
+      type: string
+      list: true
+    - name: outcome
+      label: Outcome
+      type: string
+    list: true
+  - name: compareHeading
+    label: Compare heading
+    type: string
+  - name: compareText
+    label: Compare text
+    type: text
+  - name: india
+    label: India table
+    type: object
+    fields:
+    - name: label
+      label: Tab label
+      type: string
+    - name: feeLabel
+      label: Fee row label
+      type: string
+    - name: groups
+      label: Groups
+      type: object
+      fields:
+      - name: title
+        label: Group heading
+        type: string
+      - name: rows
+        label: Rows
+        type: object
+        fields:
+        - name: market
+          label: Country tag (UAE or KSA, optional)
+          type: string
+        - name: label
+          label: Row text
+          type: string
+        - name: foundation
+          label: Foundation (type yes, no, or text)
+          type: string
+        - name: growth
+          label: Growth
+          type: string
+        - name: cfo
+          label: CFO
+          type: string
+        list: true
+      list: true
+  - name: gcc
+    label: UAE and Saudi table
+    type: object
+    fields:
+    - name: label
+      label: Tab label
+      type: string
+    - name: feeLabel
+      label: Fee row label
+      type: string
+    - name: groups
+      label: Groups
+      type: object
+      fields:
+      - name: title
+        label: Group heading
+        type: string
+      - name: rows
+        label: Rows
+        type: object
+        fields:
+        - name: market
+          label: Country tag (UAE or KSA, optional)
+          type: string
+        - name: label
+          label: Row text
+          type: string
+        - name: foundation
+          label: Foundation (type yes, no, or text)
+          type: string
+        - name: growth
+          label: Growth
+          type: string
+        - name: cfo
+          label: CFO
+          type: string
+        list: true
+      list: true
+  - name: addonsHeading
+    label: Addons heading
+    type: string
+  - name: addonsText
+    label: Addons text
+    type: text
+  - name: addons
+    label: Add-on modules
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: name
+      label: Name
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: pricedBy
+      label: Priced by
+      type: string
+    - name: worksWith
+      label: Works with
+      type: string
+    list: true
+  - *id001
+  - name: cta
+    label: Closing call to action
+    type: object
+    fields:
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+- name: how-we-work
+  label: How we work
+  type: file
+  path: content/pages/how-we-work.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+  - name: rhythmHeading
+    label: Rhythm heading
+    type: string
+  - name: rhythmText
+    label: Rhythm text
+    type: text
+  - name: stages
+    label: Stages
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: title
+      label: Title
+      type: string
+    - name: when
+      label: When
+      type: string
+    - name: items
+      label: Items
+      type: string
+      list: true
+    list: true
+  - name: month
+    label: Month at a glance
+    type: object
+    fields:
+    - name: label
+      label: Label
+      type: string
+    - name: text
+      label: Text
+      type: string
+    list: true
+  - name: toolsHeading
+    label: Tools heading
+    type: string
+  - name: toolsText
+    label: Tools text
+    type: text
+  - name: stack
+    label: Tools
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - name: protect
+    label: How we protect your business
+    type: string
+    list: true
+  - name: scopeHeading
+    label: Scope heading
+    type: string
+  - name: scopeText
+    label: Scope text
+    type: text
+  - name: scope
+    label: Scope and terms
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - *id001
+- name: about
+  label: About us
+  type: file
+  path: content/pages/about.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+  - name: story
+    label: Our story
+    type: object
+    fields:
+    - name: heading
+      label: Heading
+      type: string
+    - name: body
+      label: Story
+      type: rich-text
+  - name: principlesHeading
+    label: Principles heading
+    type: string
+  - name: principles
+    label: Principles
+    type: object
+    fields:
+    - name: icon
+      label: Icon
+      type: select
+      options:
+        values: *id002
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - name: team
+    label: Team (add people here when ready; the section stays hidden while empty)
+    type: object
+    fields:
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: members
+      label: People
+      type: object
+      fields:
+      - name: name
+        label: Name
+        type: string
+      - name: role
+        label: Role
+        type: string
+      - name: bio
+        label: Bio
+        type: text
+      - name: photo
+        label: Photo
+        type: image
+      list: true
+- name: partners
+  label: Partner programme
+  type: file
+  path: content/pages/partners.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+  - name: deliver
+    label: What we deliver
+    type: string
+    list: true
+  - name: protect
+    label: How we protect clients and brand
+    type: string
+    list: true
+  - name: stepsHeading
+    label: Steps heading
+    type: string
+  - name: steps
+    label: Steps
+    type: object
+    fields:
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - *id001
+- name: contact
+  label: Contact page
+  type: file
+  path: content/pages/contact.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+  - name: formHeading
+    label: Form heading
+    type: string
+  - name: consent
+    label: Small print under the form
+    type: text
+  - name: expect
+    label: What happens next
+    type: object
+    fields:
+    - name: title
+      label: Title
+      type: string
+    - name: text
+      label: Text
+      type: text
+    list: true
+  - *id001
+- name: services
+  label: Services overview page
+  type: file
+  path: content/pages/services.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+  - name: layers
+    label: Three layers
+    type: object
+    fields:
+    - name: eyebrow
+      label: Eyebrow
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+    - name: items
+      label: Layers
+      type: object
+      fields:
+      - name: title
+        label: Title
+        type: string
+      - name: text
+        label: Text
+        type: text
+      list: true
+  - name: cta
+    label: Closing call to action
+    type: object
+    fields:
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Text
+      type: text
+- name: solutions
+  label: Who we serve overview
+  type: file
+  path: content/pages/solutions.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+- name: insights
+  label: Insights overview page
+  type: file
+  path: content/pages/insights.json
+  format: json
+  fields:
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: hero
+    label: Top banner
+    type: object
+    fields:
+    - name: eyebrow
+      label: Small label above heading
+      type: string
+    - name: heading
+      label: Heading
+      type: string
+    - name: text
+      label: Intro text
+      type: text
+- name: privacy-policy
+  label: Privacy policy
+  type: file
+  path: content/pages/privacy-policy.json
+  format: json
+  fields: &id003
+  - name: meta
+    label: Search settings
+    type: object
+    fields:
+    - name: title
+      label: Search title (shown in Google, keep under about 60 characters)
+      type: string
+    - name: description
+      label: Search description (about 140 to 160 characters)
+      type: text
+  - name: heading
+    label: Heading
+    type: string
+  - name: updated
+    label: Last updated (text)
+    type: string
+  - name: body
+    label: Text
+    type: rich-text
+- name: terms
+  label: Terms of use
+  type: file
+  path: content/pages/terms.json
+  format: json
+  fields: *id003
+- name: site
+  label: Site settings (contact details, form, analytics)
+  type: file
+  path: content/settings/site.json
+  format: json
+  fields:
+  - name: name
+    label: Business name
+    type: string
+  - name: legalName
+    label: Legal name
+    type: string
+  - name: tagline
+    label: Tagline
+    type: string
+  - name: description
+    label: Default description of the firm (used in Google and social sharing)
+    type: text
+  - name: siteUrl
+    label: Website address (include https:// and no trailing slash)
+    type: string
+  - name: email
+    label: Email address
+    type: string
+  - name: phone
+    label: Phone number (leave empty to hide)
+    type: string
+  - name: whatsapp
+    label: WhatsApp number with country code, digits only (leave empty to hide)
+    type: string
+  - name: address
+    label: Address
+    type: object
+    fields:
+    - name: line
+      label: Street address (optional)
+      type: string
+    - name: city
+      label: City
+      type: string
+    - name: region
+      label: Region
+      type: string
+    - name: country
+      label: Country
+      type: string
+  - name: social
+    label: Social media links
+    type: object
+    fields:
+    - name: linkedin
+      label: Linkedin
+      type: string
+    - name: instagram
+      label: Instagram
+      type: string
+    - name: x
+      label: X (Twitter)
+      type: string
+    - name: youtube
+      label: Youtube
+      type: string
+  - name: formEndpoint
+    label: Contact form address (from Formspree)
+    type: string
+  - name: analyticsId
+    label: Google Analytics ID (starts with G-)
+    type: string
+  - name: googleSiteVerification
+    label: Google Search Console code
+    type: string
+  - name: bingSiteVerification
+    label: Bing Webmaster code
+    type: string
+  - name: headerCtaLabel
+    label: Header button text
+    type: string
+  - name: headerCtaUrl
+    label: Header button link
+    type: string
+  - name: footerAbout
+    label: Footer text
+    type: text
+  - name: disclaimer
+    label: Footer disclaimer
+    type: text
+- name: navigation
+  label: Top menu
+  type: file
+  path: content/settings/navigation.json
+  format: json
+  fields:
+  - name: main
+    label: Menu items
+    type: object
+    fields:
+    - name: label
+      label: Label
+      type: string
+    - name: url
+      label: Url
+      type: string
+    - name: menu
+      label: Drop-down type
+      type: select
+      options:
+        values:
+        - ''
+        - services
+        - markets
+        - solutions
+    list: true
