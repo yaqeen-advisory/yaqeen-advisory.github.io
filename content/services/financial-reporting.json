@@ -1,0 +1,50 @@
+{
+  "title": "Financial Reporting Services",
+  "navLabel": "Financial reporting",
+  "parent": "",
+  "order": 4,
+  "icon": "file",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Monthly MIS and dashboards, annual financial statements, Ind AS and IFRS reporting, and group consolidation.",
+  "metaTitle": "Financial Reporting Services: MIS, IFRS and Ind AS",
+  "metaDescription": "Financial reporting for India and the GCC: monthly MIS with live dashboards, year-end statements under Indian GAAP, Ind AS or IFRS, and group consolidation.",
+  "heroIntro": "The numbers you actually manage the business with, and the statements lenders, investors and regulators expect.",
+  "overview": "Reporting is where good bookkeeping turns into decisions. Every plan includes a one-page MIS and a live dashboard by the 7th. Year-end statements follow Indian GAAP in India and IFRS for SMEs in the Gulf, with Ind AS or full IFRS available as add-ons, and consolidation for groups.\n\nReports are prepared from your books, reviewed by a qualified accountant and sent only after review.",
+  "whatWeDo": [
+    "Prepare the monthly profit and loss, balance sheet and cash flow with commentary.",
+    "Track key performance indicators such as gross margin, receivable days and cash runway.",
+    "Build a live dashboard that summarises the key numbers in one view.",
+    "Prepare annual financial statements with notes and schedules.",
+    "Complete year-end closing: accruals, provisions, depreciation and tax adjustments.",
+    "Prepare management accounts packs for banks and investors."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Standard one-page MIS, live dashboard and year-end statements.",
+    "growth": "Custom KPIs, variance commentary, interim statements and lender packs on request.",
+    "cfo": "Forecast-linked MIS with scenarios, investor-grade reporting and consolidation support."
+  },
+  "duration": "",
+  "note": "Reports are prepared from your books, reviewed by a qualified accountant, and sent only after review.",
+  "faqs": [
+    {
+      "q": "What is in the monthly MIS?",
+      "a": "A one-page summary of profit and loss, balance sheet and cash flow with commentary, plus a live dashboard link. Growth and CFO add custom KPIs, department or project views and variance commentary."
+    },
+    {
+      "q": "Which accounting standards do you report under?",
+      "a": "Indian GAAP is standard in India, and IFRS for SMEs in the UAE and Saudi Arabia. Ind AS and full IFRS are available as add-ons."
+    }
+  ],
+  "related": [
+    "accounting-bookkeeping",
+    "fpa-cfo-advisory",
+    "audit-support"
+  ],
+  "body": ""
+}

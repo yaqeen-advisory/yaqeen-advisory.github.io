@@ -1,0 +1,48 @@
+{
+  "title": "Saudi Payroll, WPS and GOSI Services",
+  "navLabel": "Payroll, WPS and GOSI (KSA)",
+  "parent": "payroll",
+  "order": 3,
+  "icon": "users",
+  "markets": [
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Monthly payroll with WPS files, GOSI contributions, end-of-service benefits and payslips.",
+  "metaTitle": "Saudi Payroll, WPS and GOSI Compliance Services",
+  "metaDescription": "Saudi Arabia payroll outsourcing: WPS salary files, GOSI contributions and reconciliations, end-of-service benefits, payslips and labour compliance records.",
+  "heroIntro": "Compliant payroll for Saudi employers: WPS files, GOSI contributions and end-of-service benefits calculated and documented every month.",
+  "overview": "Saudi payroll combines WPS submission, GOSI contributions and end-of-service benefits. We run the monthly cycle, prepare the files for submission through your payroll platform and reconcile GOSI each month so records stay clean for labour compliance reviews.",
+  "whatWeDo": [
+    "Run monthly payroll with allowances, deductions and overtime.",
+    "Generate WPS files for submission through the payroll platform.",
+    "Calculate GOSI contributions and prepare monthly reconciliations.",
+    "Compute end-of-service benefits.",
+    "Handle joiners, exits and final settlements.",
+    "Prepare payslips, registers and labour compliance records."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Up to 10 employees.",
+    "growth": "Up to 25 employees.",
+    "cfo": "Up to 50 employees. More are priced per head."
+  },
+  "duration": "",
+  "note": "Payroll is reported in SAR, with INR views available if you also operate in India.",
+  "faqs": [
+    {
+      "q": "What is GOSI?",
+      "a": "The General Organization for Social Insurance. Employers calculate and pay monthly contributions for employees. We calculate them and prepare monthly reconciliations."
+    },
+    {
+      "q": "Do you submit WPS files?",
+      "a": "We generate the WPS files for submission through the payroll platform, which you or your authorised representative submit."
+    }
+  ],
+  "related": [
+    "saudi-vat-zatca-e-invoicing",
+    "zakat-income-tax-saudi-arabia",
+    "payroll"
+  ],
+  "body": ""
+}

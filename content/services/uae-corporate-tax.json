@@ -1,0 +1,56 @@
+{
+  "title": "UAE Corporate Tax Services",
+  "navLabel": "UAE corporate tax",
+  "parent": "taxation",
+  "order": 4,
+  "icon": "bank",
+  "markets": [
+    "uae"
+  ],
+  "kind": "both",
+  "summary": "Registration assessment, taxable income computation, reliefs and free zone status, annual return and related-party support.",
+  "metaTitle": "UAE Corporate Tax Services: Registration to Annual Return",
+  "metaDescription": "UAE corporate tax support: registration assessment, taxable income computation, reliefs, Qualifying Free Zone Person status, annual return and transfer pricing.",
+  "heroIntro": "From registration to the annual return: we compute taxable income from your accounts, assess available reliefs and prepare the filing.",
+  "overview": "UAE corporate tax starts from your accounting profit, then adjusts for what the law allows and disallows. That only works if your books are kept to a sound standard. We compute taxable income from your accounts, assess reliefs and free zone status, and prepare the return and supporting schedules.\n\nFor businesses that have not yet assessed their position, a corporate tax readiness project reviews registration obligations, builds the bridge from accounting profit to taxable income and delivers an action plan.",
+  "whatWeDo": [
+    "Assess registration obligations and support registration on the FTA portal.",
+    "Compute taxable income from accounting profit, with adjustments.",
+    "Assess available reliefs and Qualifying Free Zone Person status.",
+    "Prepare the annual corporate tax return and supporting schedules.",
+    "Track related-party transactions and support transfer pricing disclosures.",
+    "Plan tax payments and maintain records for the required period."
+  ],
+  "whoFor": [
+    "Mainland and free zone companies in the UAE.",
+    "Groups with related-party transactions across the UAE and other jurisdictions.",
+    "Businesses that have not yet assessed their corporate tax position."
+  ],
+  "byPlan": {
+    "foundation": "Computation and annual return.",
+    "growth": "Adds a mid-year tax estimate.",
+    "cfo": "Adds a structure and planning review."
+  },
+  "duration": "Readiness project: typically 2 to 3 weeks.",
+  "note": "Transfer pricing support is available as an add-on module for UAE and Saudi clients on Growth and CFO.",
+  "faqs": [
+    {
+      "q": "What is the UAE corporate tax rate?",
+      "a": "A standard rate of 9% applies to taxable income above AED 375,000, with a 0% rate below that threshold, subject to the conditions in the law. Rules, reliefs and thresholds can change, so we confirm the current position for your business."
+    },
+    {
+      "q": "Do free zone companies pay corporate tax?",
+      "a": "It depends on whether the company is a Qualifying Free Zone Person and meets the conditions. We assess your status as part of registration and relief assessment."
+    },
+    {
+      "q": "What does a corporate tax readiness project deliver?",
+      "a": "A registration review, a bridge from accounting profit to taxable income, a relief and free zone assessment and an action plan. It typically takes 2 to 3 weeks."
+    }
+  ],
+  "related": [
+    "uae-vat",
+    "financial-statements-ifrs",
+    "payroll-uae-wps"
+  ],
+  "body": ""
+}

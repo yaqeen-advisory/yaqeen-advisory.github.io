@@ -1,0 +1,48 @@
+{
+  "title": "Payroll Services in India: PF, ESI, Professional Tax and Form 16",
+  "navLabel": "Payroll (India)",
+  "parent": "payroll",
+  "order": 1,
+  "icon": "users",
+  "markets": [
+    "india"
+  ],
+  "kind": "subscription",
+  "summary": "Monthly payroll with PF, ESI and professional tax filings, TDS on salary and Form 16.",
+  "metaTitle": "Payroll Services in India: PF, ESI, PT and Form 16",
+  "metaDescription": "Outsourced payroll for Indian businesses: monthly processing, PF, ESI and professional tax, TDS on salary, Form 16, payslips and final settlements.",
+  "heroIntro": "Monthly payroll with statutory compliance built in, so salaries, contributions and tax deducted at source are right every month.",
+  "overview": "Indian payroll touches several regimes at once: provident fund, ESI, professional tax and income tax on salary. We run the cycle, file what is due and issue Form 16 at year-end, tied back to your accounts so payroll costs and liabilities always reconcile.",
+  "whatWeDo": [
+    "Run monthly payroll: attendance, leave, earnings, deductions and net pay.",
+    "Calculate and file PF, ESI and professional tax.",
+    "Deduct TDS on salary and issue Form 16.",
+    "Issue payslips by email or WhatsApp.",
+    "Handle joiners, exits and full and final settlements.",
+    "Maintain payroll registers and statutory records."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Up to 10 employees.",
+    "growth": "Up to 25 employees.",
+    "cfo": "Up to 50 employees. More employees are priced per head."
+  },
+  "duration": "",
+  "note": "Personal data such as employee records is handled in line with applicable data-protection law, including India’s Digital Personal Data Protection Act.",
+  "faqs": [
+    {
+      "q": "Which statutory filings are included?",
+      "a": "PF, ESI and professional tax, as applicable to your registrations, plus TDS on salary and Form 16."
+    },
+    {
+      "q": "Can you handle exits and full and final settlements?",
+      "a": "Yes. We process joiners, exits and final settlements as part of the monthly cycle."
+    }
+  ],
+  "related": [
+    "tds-income-tax-india",
+    "accounting-bookkeeping",
+    "payroll"
+  ],
+  "body": ""
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Audit Support and Assurance Services",
+  "navLabel": "Audit support",
+  "parent": "",
+  "order": 6,
+  "icon": "shield",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Audit readiness, internal audit, controls and SOP review, and fraud and anomaly checks. We do not perform statutory audit.",
+  "metaTitle": "Audit Support: Audit Readiness and Internal Audit",
+  "metaDescription": "Audit support for India and the GCC: audit readiness, internal audit, controls and SOP review and fraud checks. Independent of your statutory auditor.",
+  "heroIntro": "Stronger controls. Calmer audits. We help you tighten processes and prepare for audit, and we stay independent of your auditor.",
+  "overview": "Audits go smoothly when the schedules, reconciliations and working papers are ready before fieldwork starts, and when the controls behind them are sound. Our audit support services cover both: preparing for the audit and strengthening the processes it tests.\n\nStatutory audit and tax audit are carried out by an independent auditor appointed directly by you, under a separate engagement. No fees flow between us and that auditor.",
+  "whatWeDo": [
+    "Prepare closing schedules, reconciliations and working papers before fieldwork.",
+    "Track the auditor’s request list to completion and draft responses to queries.",
+    "Review balances, provisions and related-party disclosures before the audit.",
+    "Run risk-based internal audits of key finance cycles.",
+    "Document processes, approvals and delegation of authority.",
+    "Test for duplicate payments, unusual journals and payroll anomalies."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Audit readiness available as a project.",
+    "growth": "Audit readiness included, with auditor query support.",
+    "cfo": "Included, with a pre-audit review of key balances."
+  },
+  "duration": "",
+  "note": "Independence comes first. We offer internal audit only to clients whose books we do not maintain, or through a separate team with disclosure and safeguards.",
+  "faqs": [
+    {
+      "q": "Do you perform statutory audit?",
+      "a": "No. Statutory audit and tax audit are carried out by an independent auditor appointed directly by you, under a separate engagement. No fees flow between us and that auditor."
+    },
+    {
+      "q": "Can you recommend an auditor?",
+      "a": "We stay auditor-agnostic. You appoint your own auditor, and we prepare everything they need."
+    }
+  ],
+  "related": [
+    "accounting-bookkeeping",
+    "financial-reporting",
+    "finance-automation"
+  ],
+  "body": ""
+}

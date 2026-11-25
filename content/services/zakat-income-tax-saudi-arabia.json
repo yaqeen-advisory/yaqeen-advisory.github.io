@@ -1,0 +1,56 @@
+{
+  "title": "Zakat and Income Tax Services in Saudi Arabia",
+  "navLabel": "Zakat and income tax (KSA)",
+  "parent": "taxation",
+  "order": 6,
+  "icon": "bank",
+  "markets": [
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Zakat base and income tax computation, annual declaration, withholding tax and support for assessments.",
+  "metaTitle": "Zakat and Income Tax Services for Saudi Arabia",
+  "metaDescription": "Zakat base and income tax computation, annual declaration, withholding tax on non-resident payments and assessment support for Saudi Arabia businesses.",
+  "heroIntro": "The right base, the right rate, the right filing: Zakat and income tax computed correctly for Saudi and GCC-owned shares and for foreign-owned shares.",
+  "overview": "Saudi entities with mixed ownership have to split their results between Zakat and income tax. Getting the ownership allocation and the Zakat base right matters, because errors surface at assessment. We compute both, prepare the annual declaration and the supporting financial statements, and support assessments with reconciliations and draft explanations.",
+  "whatWeDo": [
+    "Determine the Zakat base and Zakat payable for Saudi and GCC-owned shares.",
+    "Compute income tax for foreign-owned shares and allocate mixed ownership correctly.",
+    "Prepare the annual declaration and supporting financial statements.",
+    "Compute withholding tax on payments to non-residents and prepare returns.",
+    "Plan payments and instalments.",
+    "Support assessments with reconciliations and draft explanations."
+  ],
+  "whoFor": [
+    "Saudi companies with Saudi, GCC or foreign ownership.",
+    "Foreign-owned entities and branches in Saudi Arabia.",
+    "Businesses that pay non-resident vendors or group companies."
+  ],
+  "byPlan": {
+    "foundation": "Computation, declaration and withholding tax.",
+    "growth": "Adds assessment support.",
+    "cfo": "Adds an ownership and structure review."
+  },
+  "duration": "",
+  "note": "Statements follow IFRS for SMEs, with full IFRS available as an add-on for entities that need it.",
+  "faqs": [
+    {
+      "q": "What is the difference between Zakat and income tax in Saudi Arabia?",
+      "a": "Zakat generally applies to Saudi and GCC-owned shares, while income tax applies to foreign-owned shares. Entities with mixed ownership compute both on their respective portions."
+    },
+    {
+      "q": "Do you handle withholding tax on payments abroad?",
+      "a": "Yes. We compute withholding tax on payments to non-residents and prepare the related returns."
+    },
+    {
+      "q": "Do you represent us in assessments?",
+      "a": "We prepare reconciliations and draft explanations. Filings and representation go through your ZATCA account or a licensed representative."
+    }
+  ],
+  "related": [
+    "saudi-vat-zatca-e-invoicing",
+    "payroll-saudi-wps-gosi",
+    "financial-statements-ifrs"
+  ],
+  "body": ""
+}

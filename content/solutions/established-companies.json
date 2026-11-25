@@ -1,0 +1,73 @@
+{
+  "order": 4,
+  "icon": "building",
+  "title": "Finance Support for Established Companies",
+  "navLabel": "Established companies",
+  "eyebrow": "Established companies",
+  "menuText": "FP&A, consolidation, IFRS and controls",
+  "summary": "FP&A, consolidation, IFRS and Ind AS reporting, controls and audit support for multi-entity and multi-country businesses.",
+  "metaTitle": "Finance Support for Established Companies",
+  "metaDescription": "FP&A, consolidation, IFRS and Ind AS reporting, internal audit and controls for established companies with multiple entities in India and the GCC.",
+  "heroHeading": "Finance leadership and capacity, without the full-time overhead.",
+  "heroIntro": "Established companies bring us in for planning, reporting and controls: rolling forecasts, group consolidation, IFRS and Ind AS reporting and risk-based internal audit.",
+  "challengesHeading": "Where established companies need extra capacity",
+  "challenges": [
+    {
+      "icon": "link",
+      "title": "Multiple entities",
+      "text": "Intercompany balances, currencies and reporting calendars that do not line up."
+    },
+    {
+      "icon": "globe",
+      "title": "Reporting frameworks",
+      "text": "Ind AS, IFRS and group reporting needs beyond local statutory accounts."
+    },
+    {
+      "icon": "shield",
+      "title": "Controls and assurance",
+      "text": "Documented processes, risk-based internal audit and fewer audit surprises."
+    }
+  ],
+  "helpHeading": "How we help",
+  "howWeHelp": [
+    {
+      "title": "Planning and forecasting",
+      "text": "Rolling forecasts and scenarios, with lender and investor reporting packs.",
+      "link": "/services/fpa-cfo-advisory/",
+      "linkLabel": "FP&A and CFO advisory"
+    },
+    {
+      "title": "Group reporting",
+      "text": "Consolidation with intercompany eliminations and currency translation.",
+      "link": "/services/consolidation-group-reporting/",
+      "linkLabel": "Consolidation"
+    },
+    {
+      "title": "Frameworks",
+      "text": "Ind AS and IFRS statements, and conversion projects.",
+      "link": "/services/financial-statements-ifrs/",
+      "linkLabel": "Ind AS and IFRS"
+    },
+    {
+      "title": "Controls",
+      "text": "Internal audit, SOP review and anomaly checks.",
+      "link": "/services/audit-support/",
+      "linkLabel": "Audit support"
+    }
+  ],
+  "recommendedPlan": "cfo",
+  "services": [
+    "fpa-cfo-advisory",
+    "consolidation-group-reporting",
+    "financial-statements-ifrs",
+    "internal-audit",
+    "controls-sop-review",
+    "finance-automation"
+  ],
+  "faqs": [
+    {
+      "q": "Can you work alongside our in-house team?",
+      "a": "Yes. Many established clients use us for capacity, specialist reporting or independent review while their team keeps day-to-day ownership."
+    }
+  ]
+}

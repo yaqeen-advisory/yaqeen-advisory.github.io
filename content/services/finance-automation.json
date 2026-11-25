@@ -1,0 +1,46 @@
+{
+  "title": "Finance Automation and Systems Setup",
+  "navLabel": "Finance automation",
+  "parent": "",
+  "order": 7,
+  "icon": "zap",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Accounting system setup, workflow automation, dashboards and an ongoing automation retainer, so finance runs with less manual work.",
+  "metaTitle": "Finance Automation and Accounting System Setup Services",
+  "metaDescription": "Less manual work, fewer errors: accounting system setup, invoice and bill automation, reconciliation workflows, custom dashboards and an automation retainer.",
+  "heroIntro": "Less manual work. Fewer errors. We design and build the systems that keep your finance running, using the tools you already pay for wherever possible.",
+  "overview": "Many finance teams lose days each month to copy-paste work. We map your process, automate the repetitive parts with tools you already own where possible, and hand over with documentation and training. Audit findings often lead to automation projects; we scope the two separately so each stays clear and independent.",
+  "whatWeDo": [
+    "Select, configure and migrate to the right accounting and payroll software.",
+    "Automate invoicing, bill capture and approvals.",
+    "Automate reconciliations and exception lists.",
+    "Build custom dashboards on live accounting data.",
+    "Connect tools with documented workflows.",
+    "Support and improve automations on a monthly retainer."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 1 to 6 weeks depending on the project.",
+  "note": "Audit findings often lead to automation projects. We scope the two separately so each stays clear and independent.",
+  "faqs": [
+    {
+      "q": "Do I need to buy new software?",
+      "a": "Not necessarily. We use the tools you already pay for wherever possible, and recommend new ones only when they clearly help."
+    }
+  ],
+  "related": [
+    "accounting-bookkeeping",
+    "mis-dashboards",
+    "controls-sop-review"
+  ],
+  "body": ""
+}

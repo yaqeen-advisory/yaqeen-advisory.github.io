@@ -1,0 +1,49 @@
+{
+  "title": "Internal Audit Services for SMEs and Growing Companies",
+  "navLabel": "Internal audit",
+  "parent": "audit-support",
+  "order": 2,
+  "icon": "search",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Risk-based internal audit of purchase-to-pay, order-to-cash, payroll, inventory and treasury, with an action plan and follow-up.",
+  "metaTitle": "Internal Audit Services for SMEs and Growing Companies",
+  "metaDescription": "Risk-based internal audit for SMEs: walk-throughs and testing of purchase-to-pay, order-to-cash, payroll, inventory and treasury, with rated findings and follow-up.",
+  "heroIntro": "A scoped, risk-based review of your key finance cycles, with findings rated by risk and an action plan with owners and dates.",
+  "overview": "Internal audit gives owners and boards independent assurance that processes work as intended. We agree a risk-based plan with management, test the cycles that matter and report root causes, not just symptoms. Engagements run quarterly or annually.",
+  "whatWeDo": [
+    "Agree a risk-based audit plan with management.",
+    "Walk through and test purchase-to-pay, order-to-cash, payroll, inventory and treasury.",
+    "Rate findings by risk, with root causes.",
+    "Prepare an action plan with owners and dates.",
+    "Carry out a follow-up review."
+  ],
+  "whoFor": [
+    "Owner-led businesses that want independent assurance.",
+    "Companies with lenders or investors asking about controls.",
+    "Groups with multiple locations or entities."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Scoped engagement. Quarterly or annual cycles.",
+  "note": "Independence comes first. We offer internal audit only to clients whose books we do not maintain, or through a separate team with disclosure and safeguards.",
+  "faqs": [
+    {
+      "q": "Can you do internal audit if you keep our books?",
+      "a": "Not directly. To protect independence, we offer internal audit only to clients whose books we do not maintain, or through a separate team with disclosure and safeguards."
+    }
+  ],
+  "related": [
+    "controls-sop-review",
+    "fraud-anomaly-review",
+    "audit-readiness"
+  ],
+  "body": ""
+}

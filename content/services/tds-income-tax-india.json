@@ -1,0 +1,55 @@
+{
+  "title": "TDS and Income Tax Compliance in India",
+  "navLabel": "TDS and income tax (India)",
+  "parent": "taxation",
+  "order": 2,
+  "icon": "percent",
+  "markets": [
+    "india"
+  ],
+  "kind": "subscription",
+  "summary": "TDS deduction, challans and quarterly returns, advance tax each quarter and the annual income tax return for your entity.",
+  "metaTitle": "TDS Return and Income Tax Filing Services in India",
+  "metaDescription": "TDS compliance and entity income tax for Indian businesses: deduction tracking, challans, quarterly returns, Form 26AS and AIS reconciliation and advance tax.",
+  "heroIntro": "Entity-level tax, kept current through the year: TDS deducted and filed correctly, advance tax computed each quarter and the annual return prepared from reconciled books.",
+  "overview": "Direct tax errors are expensive because interest and penalties build quietly. We compute and track TDS on salaries, rent, professional fees and contractor payments, reconcile it with your tax statements and compute advance tax each quarter so there are no interest surprises.",
+  "whatWeDo": [
+    "Compute and track TDS on salaries, rent, professional fees and contractor payments.",
+    "Prepare challans, quarterly returns and TDS certificates.",
+    "Reconcile TDS with Form 26AS and the Annual Information Statement.",
+    "Compute advance tax each quarter so there are no interest surprises.",
+    "Prepare and file the annual income tax return for the entity.",
+    "Prepare data and drafts for income tax notices."
+  ],
+  "whoFor": [
+    "Companies, LLPs and proprietorships that deduct TDS or pay advance tax.",
+    "Businesses that want tax computed from reconciled books, not estimates."
+  ],
+  "byPlan": {
+    "foundation": "Filings, advance tax and an annual tax planning review.",
+    "growth": "Same, with tax position noted in each quarterly review.",
+    "cfo": "Quarterly tax planning review."
+  },
+  "duration": "",
+  "note": "Payroll TDS and Form 16 are covered under India payroll.",
+  "faqs": [
+    {
+      "q": "Do you file the entity income tax return?",
+      "a": "Yes. We prepare and file the annual income tax return for the entity as part of your plan scope."
+    },
+    {
+      "q": "Do you handle my personal tax return?",
+      "a": "Our plans cover entity-level tax. Ask us if you need personal or promoter tax support and we will scope it separately."
+    },
+    {
+      "q": "Why reconcile with Form 26AS and AIS?",
+      "a": "It shows whether the TDS deducted by your customers and the income reported against your PAN match your books, so mismatches are fixed before filing."
+    }
+  ],
+  "related": [
+    "gst-india",
+    "payroll-india",
+    "financial-reporting"
+  ],
+  "body": ""
+}

@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": "Yaqeen Advisory | Accounting, Tax and Finance for India and the GCC",
+    "description": "Tech-enabled accounting, tax, payroll, reporting, FP&A and audit support for startups, SMEs and established companies in India, the UAE and Saudi Arabia."
+  },
+  "hero": {
+    "eyebrow": "Accounting, tax and advisory · India and the GCC",
+    "heading": "Finance that runs on time, and explains itself.",
+    "text": "Accounting, tax, payroll, reporting and advisory for growing businesses, delivered by a tech-enabled finance team. Clear packs. Live numbers. No compliance surprises.",
+    "primaryLabel": "Book a free discovery call",
+    "primaryUrl": "/contact/",
+    "secondaryLabel": "Explore services",
+    "secondaryUrl": "/services/",
+    "markets": [
+      {
+        "label": "India",
+        "url": "/india/"
+      },
+      {
+        "label": "UAE",
+        "url": "/uae/"
+      },
+      {
+        "label": "Saudi Arabia",
+        "url": "/saudi-arabia/"
+      }
+    ]
+  },
+  "valueProps": [
+    {
+      "icon": "calendar",
+      "title": "Books closed by the 7th",
+      "text": "Every month is reconciled, reviewed and closed by the 7th of the following month, so your numbers are never stale."
+    },
+    {
+      "icon": "chart",
+      "title": "Numbers you can read",
+      "text": "A one-page summary and a live dashboard on every plan. No spreadsheets to decode, no waiting for a quarterly report."
+    },
+    {
+      "icon": "shield",
+      "title": "Compliance on autopilot",
+      "text": "A deadline calendar for every registration you hold, reminders before each due date and a confirmation once it is filed."
+    },
+    {
+      "icon": "message",
+      "title": "Always one message away",
+      "text": "Send bills and ask questions in a WhatsApp group with your accountant. Every plan has a stated response time."
+    }
+  ],
+  "why": {
+    "eyebrow": "Why Yaqeen",
+    "heading": "Yaqeen means certainty. We run your finance function so you always have it.",
+    "text": "A tech-enabled finance team for owner-led and growing businesses. We keep the books, handle compliance and turn the numbers into decisions, with a named accountant behind every deliverable.",
+    "ai": {
+      "title": "AI does the repetitive work. People are accountable.",
+      "text": "We use AI to categorise transactions, read bills, match bank lines and draft commentary. A qualified accountant reviews every output before it reaches you, and we stand behind it."
+    },
+    "built": {
+      "title": "Built for India. Ready for the GCC.",
+      "text": "The same packs run in India, the UAE and Saudi Arabia, with local tax, payroll and reporting rules built in. Businesses with operations on both sides get one team and one set of numbers."
+    }
+  },
+  "servicesIntro": {
+    "eyebrow": "What we do",
+    "heading": "Every part of your finance function, in one team",
+    "text": "Choose a core subscription, add modules when you need them, and bring us in for one-time projects. Each service below has its own page."
+  },
+  "marketsIntro": {
+    "eyebrow": "Where we work",
+    "heading": "One firm across India and the Gulf",
+    "text": "Local tax, payroll and reporting rules are built into each pack, so you are not stitching together separate advisers in each country."
+  },
+  "steps": {
+    "eyebrow": "Getting started",
+    "heading": "Three steps to a finance function you can rely on",
+    "text": "",
+    "items": [
+      {
+        "title": "Discovery call",
+        "text": "30 minutes. We learn your business, registrations and what is hurting today."
+      },
+      {
+        "title": "Scoped proposal",
+        "text": "Within 2 working days. Your plan, add-ons and fee, in plain language."
+      },
+      {
+        "title": "Onboarding",
+        "text": "Live in one week. Your first MIS arrives at your first month-end close."
+      }
+    ]
+  },
+  "rhythm": {
+    "heading": "Your month at a glance",
+    "steps": [
+      {
+        "label": "Days 1 to 3",
+        "text": "Bills and bank data collected"
+      },
+      {
+        "label": "Days 3 to 5",
+        "text": "Books reconciled and reviewed"
+      },
+      {
+        "label": "By day 7",
+        "text": "MIS delivered with commentary"
+      },
+      {
+        "label": "All month",
+        "text": "Filings completed ahead of due dates"
+      }
+    ]
+  },
+  "plansTeaser": {
+    "eyebrow": "Plans",
+    "heading": "Pick the depth of insight you need",
+    "text": "The same accounting and compliance engine runs underneath every tier. What changes is how much analysis and advice sits on top."
+  },
+  "solutionsIntro": {
+    "eyebrow": "Who we serve",
+    "heading": "From first hire to multi-entity groups",
+    "text": "Finance needs change as a business grows. We shape the plan around where you are now."
+  },
+  "trust": {
+    "eyebrow": "Tools and trust",
+    "heading": "Modern tools. Careful handling.",
+    "text": "A small, proven stack that your team can use from day one, with clear rules for how your data is handled.",
+    "stack": [
+      {
+        "icon": "book",
+        "title": "Accounting",
+        "text": "Zoho Books or Tally Prime. We work in the system you already use."
+      },
+      {
+        "icon": "users",
+        "title": "Payroll",
+        "text": "Statutory payroll software for PF, ESI, WPS, GOSI, tax and payslips."
+      },
+      {
+        "icon": "file",
+        "title": "Documents",
+        "text": "Google Drive. One organised folder per client."
+      },
+      {
+        "icon": "message",
+        "title": "Daily communication",
+        "text": "WhatsApp Business. One group per client."
+      },
+      {
+        "icon": "chart",
+        "title": "Dashboards",
+        "text": "Looker Studio. A link that opens on any phone or laptop."
+      },
+      {
+        "icon": "trend",
+        "title": "Modelling",
+        "text": "Excel for forecasts, models and project deliverables."
+      }
+    ],
+    "protectHeading": "How we protect your business",
+    "protect": [
+      "Written confidentiality and data-protection terms in every engagement.",
+      "Role-based access. Each person sees only what their work needs.",
+      "Your data stays in accounts you own, so you can always take it with you.",
+      "AI is used on business-grade accounts with proper data terms, never on casual consumer tools.",
+      "A qualified accountant reviews every output before it reaches you.",
+      "WhatsApp for conversation. Approvals and decisions are confirmed by email and saved in your client folder."
+    ]
+  },
+  "faqs": [
+    {
+      "q": "What does Yaqeen Advisory do?",
+      "a": "We run the finance function for businesses in India and the GCC: bookkeeping and month-end close, GST, VAT, corporate tax, Zakat and income tax compliance, payroll, MIS and financial reporting, FP&A, audit readiness and finance automation. We combine a named accountant with AI-assisted workflows."
+    },
+    {
+      "q": "Which countries do you serve?",
+      "a": "India, the United Arab Emirates and Saudi Arabia. Oman and Bahrain VAT compliance is available on request. Delivery runs from our India team; registrations, representation and signatures that need local licensing are handled by you or a licensed in-country partner."
+    },
+    {
+      "q": "Do you perform statutory audit?",
+      "a": "No. Statutory audit and tax audit are carried out by an independent auditor appointed by you. We prepare everything the auditor needs, and we also help you become audit-ready, which usually makes the audit faster and calmer."
+    },
+    {
+      "q": "Can you work in the accounting software we already use?",
+      "a": "Yes. We work in Zoho Books or Tally Prime, and in the system you already own. Your data and history stay in accounts you control."
+    },
+    {
+      "q": "How is pricing structured?",
+      "a": "Three layers: a core subscription (Foundation, Growth or CFO) priced by monthly transaction volume, add-on modules priced by what drives the work (per employee, per entity or per cycle), and fixed-fee projects for one-time work. A client who outgrows a limit pays for the extra volume rather than jumping to a bigger tier."
+    },
+    {
+      "q": "How quickly can we start?",
+      "a": "You have a discovery call, receive a scoped proposal within 2 working days, and onboarding takes about a week. Your first MIS arrives at your first month-end close."
+    }
+  ],
+  "cta": {
+    "heading": "Let us run your finance function, so you always have certainty.",
+    "text": "Book a 30-minute discovery call. We learn your business and registrations, then send a scoped proposal within 2 working days."
+  }
+}

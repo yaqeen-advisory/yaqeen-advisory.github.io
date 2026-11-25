@@ -1,0 +1,48 @@
+{
+  "title": "Internal Controls and SOP Review",
+  "navLabel": "Controls and SOP review",
+  "parent": "audit-support",
+  "order": 3,
+  "icon": "file",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Process maps, written SOPs for approvals and payments, approval matrix and a segregation-of-duties review with fixes.",
+  "metaTitle": "Internal Controls and SOP Review for Finance Teams",
+  "metaDescription": "Process maps, written SOPs, approval matrix and segregation-of-duties review for finance cycles. One-time fixed-fee project for SMEs and growing businesses.",
+  "heroIntro": "Write down how finance should work, check who can do what, and fix the gaps before they become losses.",
+  "overview": "Weak controls are rarely malicious; they are usually undocumented. We map your key finance processes, write SOPs for approvals, payments and month-end, define an approval matrix and review segregation of duties with practical fixes.",
+  "whatWeDo": [
+    "Process maps for your key finance cycles.",
+    "Written SOPs for approvals, payments and month-end.",
+    "Approval matrix and delegation of authority.",
+    "Segregation-of-duties review with fixes."
+  ],
+  "whoFor": [
+    "Growing teams where one person does too much.",
+    "Businesses preparing for audit or investment.",
+    "Owners who want to step back from approving every payment."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "One-time project.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "Will you implement the fixes?",
+      "a": "We recommend practical fixes and can support implementation, including workflow automation where it helps."
+    }
+  ],
+  "related": [
+    "internal-audit",
+    "workflow-automation",
+    "fraud-anomaly-review"
+  ],
+  "body": ""
+}

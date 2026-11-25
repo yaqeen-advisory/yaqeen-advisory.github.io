@@ -1,0 +1,75 @@
+{
+  "order": 3,
+  "title": "Accounting, VAT, Zakat and E-Invoicing Services in Saudi Arabia",
+  "navLabel": "Saudi Arabia",
+  "eyebrow": "Saudi Arabia",
+  "menuText": "VAT, Zakat, ZATCA e-invoicing, WPS and GOSI payroll",
+  "summary": "KSA VAT, Zakat and income tax, ZATCA e-invoicing, WPS and GOSI payroll and IFRS-aligned reporting.",
+  "metaTitle": "Accounting, VAT, Zakat and ZATCA Services in Saudi Arabia",
+  "metaDescription": "Saudi Arabia accounting, VAT, Zakat and income tax, ZATCA e-invoicing monitoring, WPS and GOSI payroll and IFRS reporting. Monthly MIS in SAR.",
+  "heroHeading": "Accounting, VAT, Zakat and e-invoicing support for businesses in Saudi Arabia.",
+  "heroIntro": "Books on an IFRS-aligned standard, VAT and Zakat computed correctly, ZATCA e-invoicing monitored and payroll with WPS and GOSI. Reported in SAR, with INR views for India-linked groups.",
+  "pills": [
+    "KSA VAT",
+    "Zakat and income tax",
+    "ZATCA e-invoicing",
+    "WPS and GOSI",
+    "Withholding tax",
+    "SAR reporting"
+  ],
+  "overview": "Saudi compliance revolves around ZATCA: VAT, Zakat and income tax, withholding tax and e-invoicing all connect to your books. Entities with mixed ownership have to split results between Zakat and income tax, and invoices reported to ZATCA must agree with what you declare. We keep books on an IFRS-aligned chart of accounts and reconcile each of these to the ledger.\n\nDelivery runs from our India team. Filings go through your ZATCA account or a licensed representative. We prepare, reconcile and support every submission.",
+  "howHeading": "What you get in Saudi Arabia",
+  "howWeServe": [
+    "Bookkeeping on an IFRS-aligned chart of accounts, with multi-currency accounting.",
+    "VAT returns reconciled to the ledger.",
+    "Zakat or income tax computation, annual declaration and withholding tax on payments to non-residents.",
+    "ZATCA e-invoicing reporting and clearance monitoring.",
+    "Payroll with WPS files, GOSI and end-of-service benefits.",
+    "Statements under IFRS for SMEs, with full IFRS as an add-on."
+  ],
+  "highlightsHeading": "What stays local",
+  "highlights": [
+    {
+      "title": "Filings",
+      "text": "Submitted through your ZATCA account or a licensed representative. We prepare everything and support every submission."
+    },
+    {
+      "title": "Statutory audit",
+      "text": "Performed by your licensed auditor in the country. We prepare schedules and handle queries."
+    },
+    {
+      "title": "E-invoicing projects",
+      "text": "Map invoice fields, test integration and support go-live and rejection handling."
+    },
+    {
+      "title": "India link",
+      "text": "One monthly cycle and one set of definitions for groups with India and Saudi operations."
+    }
+  ],
+  "services": [
+    "saudi-vat-zatca-e-invoicing",
+    "zakat-income-tax-saudi-arabia",
+    "payroll-saudi-wps-gosi",
+    "accounting-bookkeeping",
+    "financial-statements-ifrs",
+    "mis-dashboards",
+    "consolidation-group-reporting",
+    "audit-readiness",
+    "fpa-cfo-advisory"
+  ],
+  "note": "Statements follow IFRS for SMEs, with full IFRS available as an add-on for entities that need it.",
+  "faqs": [
+    {
+      "q": "Can you help with Zakat if we have foreign shareholders?",
+      "a": "Yes. We determine the Zakat base for Saudi and GCC-owned shares and compute income tax for foreign-owned shares, allocating mixed ownership correctly."
+    },
+    {
+      "q": "Do you file with ZATCA directly?",
+      "a": "Filings go through your own ZATCA account or a licensed representative. We prepare, reconcile and support every submission."
+    },
+    {
+      "q": "We are an Indian group with a Saudi subsidiary. Can you help?",
+      "a": "Yes. We run the Saudi entity’s books, tax and payroll and provide consolidated MIS in INR and SAR, with Indian GAAP or Ind AS to IFRS reconciliation for group reporting."
+    }
+  ]
+}

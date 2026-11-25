@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "title": "Contact Yaqeen Advisory: Book a Free Discovery Call",
+    "description": "Book a free 30-minute discovery call with Yaqeen Advisory. Tell us about your business in India, the UAE or Saudi Arabia and get a scoped proposal in 2 working days."
+  },
+  "hero": {
+    "eyebrow": "Contact",
+    "heading": "Book a free discovery call.",
+    "text": "Tell us about your business. We will reply within 1 working day to set up a 30-minute call."
+  },
+  "formHeading": "Tell us how we can help",
+  "consent": "By sending this form you agree that we may use your details to reply to your enquiry. See our privacy policy for how we handle your information.",
+  "expect": [
+    {
+      "title": "Discovery call",
+      "text": "30 minutes. We learn your business, registrations and what is hurting today."
+    },
+    {
+      "title": "Scoped proposal",
+      "text": "Within 2 working days. Your plan, add-ons and fee, in plain language."
+    },
+    {
+      "title": "Onboarding",
+      "text": "Live in one week. Your first MIS arrives at your first month-end close."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the discovery call free?",
+      "a": "Yes. The 30-minute discovery call is free and carries no obligation."
+    },
+    {
+      "q": "Which time zones do you work in?",
+      "a": "We work with clients in India and the Gulf, and plan calls around Indian Standard Time, Gulf Standard Time and Arabia Standard Time working hours."
+    }
+  ]
+}

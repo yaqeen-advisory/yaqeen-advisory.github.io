@@ -1,0 +1,45 @@
+{
+  "title": "13-Week Cash Flow Forecasting and Working Capital Planning",
+  "navLabel": "Cash flow forecasting",
+  "parent": "fpa-cfo-advisory",
+  "order": 2,
+  "icon": "wallet",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "A 13-week cash forecast, rolling with scenarios on the CFO tier, to plan working capital and avoid cash surprises.",
+  "metaTitle": "13-Week Cash Flow Forecast and Working Capital Planning",
+  "metaDescription": "A rolling 13-week cash flow forecast with scenarios to plan working capital, collections and payables. Included in Growth and CFO plans for India and the GCC.",
+  "heroIntro": "Know where cash will be in 13 weeks, and what to do about it today.",
+  "overview": "Profitable businesses still run out of cash. A 13-week forecast links receivables, payables, payroll, tax payments and loan repayments to a weekly cash position, so you can see pinch points early and decide what to do.",
+  "whatWeDo": [
+    "Forecast cash over 13 weeks and plan working capital.",
+    "Link receivables, payables, payroll, tax and loan payments to a weekly cash view.",
+    "Update the forecast against actuals each cycle.",
+    "Model scenarios such as slower collections or a large purchase (CFO tier).",
+    "Include the cash view in your MIS and review call."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Available as a project.",
+    "growth": "13-week cash forecast.",
+    "cfo": "Rolling forecast, with scenarios."
+  },
+  "duration": "",
+  "note": "",
+  "faqs": [
+    {
+      "q": "What is a 13-week cash forecast?",
+      "a": "A weekly projection of cash in and out for the next 13 weeks (one quarter), updated regularly against actuals."
+    }
+  ],
+  "related": [
+    "fpa-cfo-advisory",
+    "financial-modelling",
+    "mis-dashboards"
+  ],
+  "body": ""
+}

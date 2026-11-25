@@ -1,0 +1,73 @@
+{
+  "order": 3,
+  "icon": "trendup",
+  "title": "Finance Support for Growing Businesses",
+  "navLabel": "Growing businesses",
+  "eyebrow": "Growing businesses",
+  "menuText": "KPIs, budgets and cash forecasting as you scale",
+  "summary": "KPIs, budget vs actual and cash forecasting for businesses with a team, several cost centres and lenders asking questions.",
+  "metaTitle": "Finance Support for Growing Businesses: KPIs and Cash",
+  "metaDescription": "Custom KPIs, budget vs actual, 13-week cash forecasts and audit readiness for growing businesses in India and the GCC. See what drives profit and cash.",
+  "heroHeading": "See what drives profit and cash, and act on it.",
+  "heroIntro": "As a business grows, the question changes from \"are we compliant?\" to \"where do we make money, and what happens next?\". Our Growth plan answers it.",
+  "challengesHeading": "What changes as you grow",
+  "challenges": [
+    {
+      "icon": "layers",
+      "title": "More moving parts",
+      "text": "More employees, locations, entities and registrations."
+    },
+    {
+      "icon": "wallet",
+      "title": "Cash gets tight",
+      "text": "Growth consumes working capital, and surprises hurt more."
+    },
+    {
+      "icon": "search",
+      "title": "Stakeholders ask more",
+      "text": "Lenders, investors and auditors want better information, faster."
+    }
+  ],
+  "helpHeading": "How we help a growing business",
+  "howWeHelp": [
+    {
+      "title": "Insight, not just reports",
+      "text": "Custom KPIs, department and project views and variance commentary.",
+      "link": "/services/mis-dashboards/",
+      "linkLabel": "MIS and dashboards"
+    },
+    {
+      "title": "Cash you can plan",
+      "text": "A 13-week cash forecast and working capital planning.",
+      "link": "/services/cash-flow-forecasting/",
+      "linkLabel": "Cash flow forecasting"
+    },
+    {
+      "title": "Calm audits",
+      "text": "Audit readiness and auditor query support are included.",
+      "link": "/services/audit-readiness/",
+      "linkLabel": "Audit readiness"
+    },
+    {
+      "title": "Regular reviews",
+      "text": "A quarterly review call with your accountant and one clear action list.",
+      "link": "/plans/",
+      "linkLabel": "Compare plans"
+    }
+  ],
+  "recommendedPlan": "growth",
+  "services": [
+    "mis-dashboards",
+    "cash-flow-forecasting",
+    "audit-readiness",
+    "fpa-cfo-advisory",
+    "cost-pricing-analysis",
+    "finance-automation"
+  ],
+  "faqs": [
+    {
+      "q": "Do we need to switch to Growth when we hit a volume limit?",
+      "a": "No. You pay for the extra volume. Tiers change only when you want more analysis, forecasting or strategy."
+    }
+  ]
+}

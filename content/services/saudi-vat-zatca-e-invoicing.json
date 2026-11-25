@@ -1,0 +1,56 @@
+{
+  "title": "Saudi VAT and ZATCA E-Invoicing Services",
+  "navLabel": "KSA VAT and e-invoicing",
+  "parent": "taxation",
+  "order": 5,
+  "icon": "receipt",
+  "markets": [
+    "saudi-arabia"
+  ],
+  "kind": "both",
+  "summary": "VAT returns reconciled to the ledger, e-invoicing monitoring, rejection follow-up and ZATCA query support.",
+  "metaTitle": "Saudi VAT and ZATCA E-Invoicing Compliance Services",
+  "metaDescription": "KSA VAT returns, ZATCA e-invoicing monitoring and reconciliation, reverse charge, registration support and assessment queries for businesses in Saudi Arabia.",
+  "heroIntro": "VAT and ZATCA e-invoicing, kept in step: returns reconciled to the ledger and every invoice reported to ZATCA matched to your books.",
+  "overview": "In Saudi Arabia, VAT and e-invoicing are tightly linked. Invoices reported to ZATCA must carry the required fields and QR codes and agree with what you declare in your return. We review invoices, monitor reporting and clearance, chase rejections and reconcile what ZATCA holds against your books.\n\nFilings go through your ZATCA account or a licensed representative. We prepare, reconcile and support every submission.",
+  "whatWeDo": [
+    "Prepare VAT returns for ZATCA each period, reconciled to the ledger.",
+    "Review invoices for required fields, QR codes and credit and debit note treatment.",
+    "Monitor e-invoicing reporting and clearance, and chase rejections.",
+    "Reconcile invoices reported to ZATCA against your books.",
+    "Handle reverse charge and import VAT.",
+    "Support VAT registration and amendments."
+  ],
+  "whoFor": [
+    "Businesses registered for VAT in Saudi Arabia.",
+    "Companies integrating accounting or ERP systems with ZATCA e-invoicing.",
+    "Groups with Indian parents or owners that need a single view of Saudi VAT."
+  ],
+  "byPlan": {
+    "foundation": "Returns and e-invoicing monitoring.",
+    "growth": "Adds ZATCA query and assessment support.",
+    "cfo": "Adds review of new invoicing flows and contracts."
+  },
+  "duration": "E-invoicing readiness project: typically 2 to 6 weeks.",
+  "note": "ZATCA e-invoicing readiness maps invoice fields, tests your system integration and supports go-live and rejection handling.",
+  "faqs": [
+    {
+      "q": "What is the VAT rate in Saudi Arabia?",
+      "a": "The standard rate of VAT in Saudi Arabia is 15%. Some supplies are zero-rated or exempt, and we review the treatment as part of return preparation."
+    },
+    {
+      "q": "What is ZATCA e-invoicing?",
+      "a": "ZATCA e-invoicing (FATOORA) requires businesses to issue electronic invoices in a prescribed structure, and in later phases to report or clear them with ZATCA. The requirements apply in waves, so we check where your business stands."
+    },
+    {
+      "q": "Can you help us get e-invoicing ready?",
+      "a": "Yes. An e-invoicing readiness project maps your invoice fields, tests your system integration and supports go-live and rejection handling, typically over 2 to 6 weeks."
+    }
+  ],
+  "related": [
+    "zakat-income-tax-saudi-arabia",
+    "payroll-saudi-wps-gosi",
+    "workflow-automation"
+  ],
+  "body": ""
+}

@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "title": "About Yaqeen Advisory: A Tech-Enabled Finance Team",
+    "description": "Yaqeen means certainty. Learn how Yaqeen Advisory combines qualified accountants and AI-assisted workflows to serve businesses in India and the GCC."
+  },
+  "hero": {
+    "eyebrow": "About us",
+    "heading": "Certainty, verified.",
+    "text": "Yaqeen Advisory is a tech-enabled finance team for owner-led and growing businesses in India and the GCC."
+  },
+  "story": {
+    "heading": "Why we exist",
+    "body": "Most growing businesses do not need a bigger finance department. They need books that close on time, filings that are never missed, numbers they can read, and someone to call when a decision needs a finance view.\n\nYaqeen Advisory runs that function for you. We combine qualified accountants with AI-assisted workflows, so the repetitive work is fast and the judgement is human. A named accountant stands behind every deliverable.\n\nWe are built for India and ready for the GCC. The same service packs run in India, the UAE and Saudi Arabia, with local tax, payroll and reporting rules built in, so businesses with operations on both sides get one team and one set of numbers.\n\nWe stay on the management side of finance. We do not perform statutory audit or tax audit, which keeps us independent of your auditor and focused on getting you audit-ready."
+  },
+  "principlesHeading": "How we think about the work",
+  "principles": [
+    {
+      "icon": "calendar",
+      "title": "Predictable",
+      "text": "A fixed monthly rhythm. Books closed by the 7th. You always know what happens next."
+    },
+    {
+      "icon": "shield",
+      "title": "Accountable",
+      "text": "AI does the repetitive work. People are accountable. A qualified accountant reviews every output."
+    },
+    {
+      "icon": "lock",
+      "title": "Careful with your data",
+      "text": "Your data stays in accounts you own. Role-based access and written confidentiality terms in every engagement."
+    },
+    {
+      "icon": "globe",
+      "title": "Local and cross-border",
+      "text": "Local tax, payroll and reporting rules built in for India, the UAE and Saudi Arabia."
+    },
+    {
+      "icon": "sliders",
+      "title": "Pay for what you use",
+      "text": "Core subscription, add-on modules and fixed-fee projects. No forced bundles."
+    },
+    {
+      "icon": "check",
+      "title": "Independent",
+      "text": "We prepare and advise. Statutory and tax audit are performed by your independent auditor."
+    }
+  ],
+  "team": {
+    "heading": "The people behind Yaqeen",
+    "text": "",
+    "members": []
+  }
+}

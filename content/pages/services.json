@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Accounting, Tax, Payroll and Finance Advisory Services",
+    "description": "Explore every Yaqeen Advisory service: bookkeeping, GST, VAT, corporate tax, Zakat, payroll, MIS, IFRS reporting, FP&A, audit support and finance automation."
+  },
+  "hero": {
+    "eyebrow": "Services",
+    "heading": "Everything your finance function needs, in one team",
+    "text": "Accounting, tax, payroll, reporting, FP&A, audit support and automation for businesses in India and the GCC. Pick a service to see exactly what we do."
+  },
+  "layers": {
+    "eyebrow": "How it is organised",
+    "heading": "Three layers. Pay only for what you use.",
+    "text": "Every client gets a core subscription. Add modules when you need them, and bring in projects for one-time work.",
+    "items": [
+      {
+        "title": "Core subscription",
+        "text": "Monthly and ongoing. Choose Foundation, Growth or CFO. The tier sets the depth of insight, from compliance to analysis to strategy."
+      },
+      {
+        "title": "Add-on modules",
+        "text": "Monthly or per cycle. Extra employees, extra entities, Ind AS or IFRS reporting and more, priced by the driver."
+      },
+      {
+        "title": "Projects",
+        "text": "One-time, fixed fee. Books clean-ups, audit readiness, financial models and system setup, scoped up front and delivered with a clear handover."
+      }
+    ]
+  },
+  "cta": {}
+}

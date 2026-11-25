@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "White-Label Finance Back Office for GCC Firms",
+    "description": "Partner with Yaqeen Advisory: white-label bookkeeping, VAT, corporate tax preparation, payroll and MIS for business-setup and advisory firms serving the GCC."
+  },
+  "hero": {
+    "eyebrow": "Partner programme",
+    "heading": "A white-label finance back office for firms serving the GCC.",
+    "text": "For business-setup firms, corporate service providers, and tax and advisory firms that want reliable, scalable delivery without hiring a full in-house team."
+  },
+  "deliver": [
+    "Bookkeeping, VAT, corporate tax preparation and payroll under your brand.",
+    "Monthly MIS and dashboards in your format or ours.",
+    "Audit readiness support for your clients’ licensed auditors.",
+    "Onboarding of new clients into your workspace and templates.",
+    "Documented standards, checklists and review steps on every client."
+  ],
+  "protect": [
+    "Your licensed team signs off every filing that requires it.",
+    "You own the client relationship. We contact clients only if you ask us to.",
+    "Confidentiality terms on every engagement and role-based access.",
+    "Fixed monthly fee per client, set by tier, so margins are predictable.",
+    "Service levels written into the agreement."
+  ],
+  "stepsHeading": "Four steps from pilot to scale",
+  "steps": [
+    {
+      "title": "Pilot",
+      "text": "Start with 3 clients on a fixed monthly fee per client."
+    },
+    {
+      "title": "Standardise",
+      "text": "Agree templates, checklists, service levels and review steps."
+    },
+    {
+      "title": "Scale",
+      "text": "Add clients without adding headcount on your side."
+    },
+    {
+      "title": "Review quarterly",
+      "text": "Review quality, turnaround and margin together."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you deal with my clients directly?",
+      "a": "Only if you ask us to. You keep the client and the relationship. We run the back office under your brand and your service levels."
+    },
+    {
+      "q": "Who submits filings with the authorities?",
+      "a": "Returns are submitted through your own portal accounts, or through a licensed tax agent where representation is required. Your licensed team reviews and signs off filings that require it. We prepare everything and walk you through approval."
+    },
+    {
+      "q": "Can we use our own software and templates?",
+      "a": "Yes. We work inside your software and templates, or ours, as you prefer."
+    }
+  ]
+}

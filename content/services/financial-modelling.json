@@ -1,0 +1,52 @@
+{
+  "title": "Financial Model Build for Startups and SMEs",
+  "navLabel": "Financial modelling",
+  "parent": "fpa-cfo-advisory",
+  "order": 1,
+  "icon": "trend",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Three-statement models with scenarios, budgets and fundraising or expansion cases, handed over so your team can own them.",
+  "metaTitle": "Financial Model Build: Three-Statement Models",
+  "metaDescription": "Fixed-fee financial model builds for startups and SMEs: three-statement models, scenarios, budgets, fundraising and expansion cases, with a handover session.",
+  "heroIntro": "A clear, checked financial model for a raise, an expansion or a budget, built to be understood and owned by your team.",
+  "overview": "A model is only useful if people trust it and can change it. We build in Excel with a clear assumptions sheet and built-in checks, test scenarios with you, and hand over with a session so your team can run it without us.",
+  "whatWeDo": [
+    "Three-statement model with scenarios.",
+    "Budget, fundraising or expansion case.",
+    "Clear assumptions sheet and checks.",
+    "Handover session so your team can own it."
+  ],
+  "whoFor": [
+    "Startups preparing a fundraise.",
+    "SMEs planning an expansion or a bank facility.",
+    "Finance teams that need a budget model they can maintain."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 4 weeks.",
+  "note": "CFO-tier clients get up to 12 hours a year of financial modelling support included.",
+  "faqs": [
+    {
+      "q": "What tool are models built in?",
+      "a": "Excel, with a clear assumptions sheet and checks, so your team can open and maintain it."
+    },
+    {
+      "q": "Will I be able to change the model myself?",
+      "a": "Yes. We hand over with a session and documentation so your team can own it."
+    }
+  ],
+  "related": [
+    "fpa-cfo-advisory",
+    "cash-flow-forecasting",
+    "due-diligence-support"
+  ],
+  "body": ""
+}

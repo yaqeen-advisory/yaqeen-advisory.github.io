@@ -1,0 +1,67 @@
+{
+  "order": 5,
+  "icon": "globe",
+  "title": "Finance for India-GCC Groups and Cross-Border Businesses",
+  "navLabel": "India-GCC groups",
+  "eyebrow": "India and GCC",
+  "menuText": "One team and one set of numbers across the Gulf",
+  "summary": "One monthly cycle across India and the UAE or Saudi Arabia, with consolidated reporting in INR and AED or SAR.",
+  "metaTitle": "India-GCC Group Accounting, Tax and Reporting",
+  "metaDescription": "Consolidated MIS, intercompany tracking, Ind AS to IFRS reporting and local compliance for Indian businesses with GCC operations and Gulf owners with Indian companies.",
+  "heroHeading": "One team on both sides of the Gulf.",
+  "heroIntro": "For businesses with operations, owners or investors in both India and the GCC, we run the finance function across both, so your group numbers always reconcile.",
+  "challengesHeading": "Why cross-border finance is hard",
+  "challenges": [
+    {
+      "icon": "link",
+      "title": "Separate books and advisers",
+      "text": "Different advisers, different calendars and different definitions in each country."
+    },
+    {
+      "icon": "globe",
+      "title": "Framework and currency differences",
+      "text": "Indian GAAP or Ind AS on one side, IFRS on the other, in more than one currency."
+    },
+    {
+      "icon": "file",
+      "title": "Cross-border filings",
+      "text": "Remittances, intercompany loans and FEMA-related data that need careful documentation."
+    }
+  ],
+  "helpHeading": "Two common set-ups",
+  "howWeHelp": [
+    {
+      "title": "Indian business with GCC operations",
+      "text": "Consolidated MIS in INR and in AED or SAR, Indian GAAP or Ind AS to IFRS reconciliation, intercompany tracking, and parent-company reporting for foreign subsidiaries.",
+      "link": "/services/consolidation-group-reporting/",
+      "linkLabel": "Consolidation and group reporting"
+    },
+    {
+      "title": "Gulf-based owner with an Indian business",
+      "text": "Monthly reporting for the Indian entity in AED or SAR, with GST, TDS, income tax and payroll handled for you and dashboards you can read from the Gulf.",
+      "link": "/india/",
+      "linkLabel": "India services"
+    }
+  ],
+  "recommendedPlan": "cfo",
+  "planHeading": "Usually a core subscription in each country, plus consolidation",
+  "planText": "Core subscription in each country, plus consolidation. Gulf-based owners typically take a core subscription in India with GCC-currency reporting.",
+  "services": [
+    "consolidation-group-reporting",
+    "financial-statements-ifrs",
+    "mis-dashboards",
+    "uae-vat",
+    "saudi-vat-zatca-e-invoicing",
+    "gst-india"
+  ],
+  "faqs": [
+    {
+      "q": "Do you handle FEMA filings?",
+      "a": "We prepare the data for FEMA-related filings such as the annual FLA return. Certifications are provided by your independent CA."
+    },
+    {
+      "q": "Can we see one dashboard across both countries?",
+      "a": "Yes. Consolidated dashboards can show both entities in INR and in AED or SAR."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Financial Statements: Indian GAAP, Ind AS and IFRS Reporting",
+  "navLabel": "Financial statements, Ind AS and IFRS",
+  "parent": "financial-reporting",
+  "order": 2,
+  "icon": "globe",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "both",
+  "summary": "Year-end statements under Indian GAAP or IFRS for SMEs, with Ind AS and full IFRS reporting and conversion available.",
+  "metaTitle": "Financial Statements, Ind AS and IFRS Reporting Services",
+  "metaDescription": "Annual financial statements under Indian GAAP or IFRS for SMEs, plus Ind AS and full IFRS reporting, interim statements and IFRS or Ind AS conversion projects.",
+  "heroIntro": "Year-end statements prepared properly, under the framework that applies to you, with Ind AS and full IFRS available when you need them.",
+  "overview": "Indian GAAP is the standard in India, and IFRS for SMEs the standard for our UAE and Saudi clients. Companies that must or choose to follow Ind AS or full IFRS can add those frameworks as modules, and businesses moving between frameworks can use a fixed-fee conversion project.",
+  "whatWeDo": [
+    "Prepare annual financial statements with notes and schedules under Indian GAAP or IFRS for SMEs.",
+    "Prepare Ind AS or full IFRS statements with disclosures, as an add-on.",
+    "Complete year-end closing: accruals, provisions, depreciation and tax adjustments.",
+    "Prepare the cash flow statement and notes to accounts.",
+    "Review the trial balance and clear open items before the audit.",
+    "Prepare interim statements for lenders, investors or group reporting."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Indian GAAP (India) or IFRS for SMEs (UAE, KSA) year-end statements.",
+    "growth": "Adds interim statements and lender packs on request.",
+    "cfo": "Adds investor-grade reporting and consolidation support."
+  },
+  "duration": "IFRS or Ind AS conversion project: typically 4 to 8 weeks.",
+  "note": "A conversion project includes a gap assessment, restatement of comparatives and opening balances, a disclosure checklist, draft statements and a transition note for your auditor.",
+  "faqs": [
+    {
+      "q": "Do I need Ind AS or IFRS?",
+      "a": "It depends on your size, listing, ownership and who asks for your accounts. We assess this during onboarding and add Ind AS or IFRS as a module if needed."
+    },
+    {
+      "q": "Do you audit the statements?",
+      "a": "No. We prepare the statements. Statutory audit is carried out by an independent auditor appointed by you."
+    }
+  ],
+  "related": [
+    "consolidation-group-reporting",
+    "audit-readiness",
+    "financial-reporting"
+  ],
+  "body": ""
+}

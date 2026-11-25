@@ -1,0 +1,47 @@
+{
+  "title": "Finance Workflow Automation",
+  "navLabel": "Workflow automation",
+  "parent": "finance-automation",
+  "order": 2,
+  "icon": "zap",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Automate invoicing, bill capture, approvals, payment and collection reminders, reconciliations and exception lists.",
+  "metaTitle": "Finance Workflow Automation: Invoices and Bills",
+  "metaDescription": "Automate invoicing, bill capture, approvals, payment and collection reminders, and reconciliations. Connected tools with documented workflows. Fixed-fee project.",
+  "heroIntro": "Automate the repetitive parts of finance, so your team spends time on exceptions and decisions.",
+  "overview": "We map the process, design the automation, build it and test it with your real data. You see progress every week, and you receive documentation and training at handover.",
+  "whatWeDo": [
+    "Automate invoicing, bill capture and approvals.",
+    "Payment, collection and compliance reminders.",
+    "Automated reconciliations and exception lists.",
+    "Connected tools with documented workflows."
+  ],
+  "whoFor": [
+    "Teams with high-volume invoicing or bills.",
+    "Finance leads who want fewer manual approvals and follow-ups."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 6 weeks.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "What happens if a tool changes?",
+      "a": "Our optional automation retainer covers monitoring, fixes and support when systems change."
+    }
+  ],
+  "related": [
+    "automation-retainer",
+    "controls-sop-review",
+    "accounting-system-setup"
+  ],
+  "body": ""
+}

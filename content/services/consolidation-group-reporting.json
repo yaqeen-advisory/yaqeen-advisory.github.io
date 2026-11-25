@@ -1,0 +1,54 @@
+{
+  "title": "Group Consolidation and Cross-Border Reporting",
+  "navLabel": "Consolidation and group reporting",
+  "parent": "financial-reporting",
+  "order": 3,
+  "icon": "link",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Group consolidation with intercompany eliminations and currency translation, including India and GCC groups.",
+  "metaTitle": "Group Consolidation and India-GCC Reporting Services",
+  "metaDescription": "Consolidation for multi-entity groups: intercompany eliminations, currency translation, INR and AED or SAR reporting and Indian GAAP or Ind AS to IFRS bridging.",
+  "heroIntro": "One set of numbers across entities and countries, with intercompany accounts reconciled and currencies translated every month.",
+  "overview": "Cross-border groups often keep separate books, separate advisers and separate reporting calendars. We bring them into one monthly cycle with one set of definitions, so owners and lenders see a single picture.",
+  "whatWeDo": [
+    "Consolidate group results with intercompany eliminations.",
+    "Translate currencies and revalue balances each month.",
+    "Track and reconcile intercompany accounts, loans and recharges.",
+    "Bridge Indian GAAP or Ind AS to IFRS for group reporting.",
+    "Prepare parent-company reporting for foreign subsidiaries.",
+    "Prepare data for FEMA-related filings such as the annual FLA return."
+  ],
+  "whoFor": [
+    "Indian businesses with GCC subsidiaries or branches.",
+    "Gulf-based owners or investors with an Indian operating company.",
+    "Groups that need consolidated MIS in INR and in AED or SAR."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "Available as an add-on per reporting cycle for Growth clients.",
+    "cfo": "Included as consolidation support, priced per reporting cycle."
+  },
+  "duration": "",
+  "note": "Consolidation is an add-on module on the CFO tier, priced per reporting cycle.",
+  "faqs": [
+    {
+      "q": "Can you report in more than one currency?",
+      "a": "Yes. We provide consolidated MIS in INR and in AED or SAR, with currency translation and revaluation each month."
+    },
+    {
+      "q": "Do you support FEMA-related filings?",
+      "a": "We prepare the data for filings such as the annual FLA return. Certifications are provided by your independent CA."
+    }
+  ],
+  "related": [
+    "financial-statements-ifrs",
+    "mis-dashboards",
+    "fpa-cfo-advisory"
+  ],
+  "body": ""
+}

@@ -1,0 +1,16 @@
+{
+  "author": "Yaqeen Advisory",
+  "draft": false,
+  "title": "GST in India and VAT in the Gulf: the basics for cross-border businesses",
+  "date": "2026-11-12",
+  "category": "Tax",
+  "summary": "Indian GST and Gulf VAT are both consumption taxes, but they differ in structure, registration, invoicing and filing.",
+  "metaTitle": "GST vs VAT: India and GCC Indirect Tax Basics",
+  "metaDescription": "How Indian GST and UAE and Saudi VAT compare: structure, invoicing, input credits and filing, and what cross-border businesses should watch for.",
+  "related": [
+    "gst-india",
+    "uae-vat",
+    "saudi-vat-zatca-e-invoicing"
+  ],
+  "body": "Businesses that operate in India and the Gulf deal with two families of indirect tax: Goods and Services Tax (GST) in India, and Value Added Tax (VAT) in the UAE and Saudi Arabia. They share a core idea, but the details differ. This article is a high-level orientation, not advice for a specific situation.\n\n## What they have in common\n\n- Both tax consumption, with businesses collecting tax on sales and claiming credit for tax on purchases.\n- Both depend on correct tax invoices and good records.\n- Both require periodic returns that should reconcile to your books.\n\n## Where they differ\n\n**Structure.** India's GST is split between central and state levels, so registrations and returns can multiply across states. The UAE and Saudi Arabia run a single national VAT.\n\n**Rates.** The UAE standard VAT rate is 5% and the Saudi standard rate is 15%. India's GST has several rates that have changed over time, so check the current schedule for your goods or services.\n\n**Invoicing.** India uses e-invoicing and e-way bills for certain businesses and movements. Saudi Arabia requires e-invoicing through ZATCA's system in phases. The UAE has its own invoice content requirements.\n\n**Credit matching.** In India, input credit depends on suppliers' filings, so purchases are reconciled with GSTR-2B. In the Gulf, input tax recovery depends on valid tax invoices and the nature of your supplies.\n\n## What to watch for if you operate in both\n\n1. Keep a separate compliance calendar for each registration.\n2. Reconcile every return to the ledger before filing.\n3. Treat cross-border services and intercompany charges carefully, since the treatment differs by country.\n4. Keep one set of definitions in management reporting so group numbers reconcile.\n\nRules change often. Confirm the current position for your business with a qualified adviser."
+}

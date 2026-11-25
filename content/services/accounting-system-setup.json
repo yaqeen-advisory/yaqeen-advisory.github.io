@@ -1,0 +1,48 @@
+{
+  "title": "Accounting System Setup and Migration",
+  "navLabel": "Accounting system setup",
+  "parent": "finance-automation",
+  "order": 1,
+  "icon": "gear",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Select, configure and migrate to the right accounting and payroll software with a chart of accounts, tax settings and bank feeds.",
+  "metaTitle": "Accounting System Setup: Zoho Books and Tally Migration",
+  "metaDescription": "Choose, configure and migrate to the right accounting software: chart of accounts, tax settings, user roles, bank feeds and team training. 1 to 2 week fixed-fee project.",
+  "heroIntro": "Get the right accounting system configured properly from day one: chart of accounts, tax settings, roles, bank feeds and training.",
+  "overview": "The cheapest time to get your accounting set-up right is at the start. We select or review the software, configure the chart of accounts and tax settings, set user roles, connect bank feeds and train your team with a short user guide.",
+  "whatWeDo": [
+    "Select, configure and migrate to the right accounting and payroll software.",
+    "Chart of accounts, tax settings and user roles.",
+    "Bank feeds connected and tested.",
+    "Team training and a short user guide."
+  ],
+  "whoFor": [
+    "New businesses choosing a system for the first time.",
+    "Companies moving off spreadsheets.",
+    "Teams migrating from one system to another."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 1 to 2 weeks.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "Which software do you set up?",
+      "a": "We commonly work with Zoho Books and Tally Prime, and can advise on others."
+    }
+  ],
+  "related": [
+    "workflow-automation",
+    "accounting-bookkeeping",
+    "dashboard-reporting-build"
+  ],
+  "body": ""
+}

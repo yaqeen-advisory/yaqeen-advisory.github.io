@@ -1,0 +1,50 @@
+{
+  "title": "Monthly MIS Reports and Live Dashboards",
+  "navLabel": "MIS and dashboards",
+  "parent": "financial-reporting",
+  "order": 1,
+  "icon": "chart",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "A one-page MIS by the 7th, KPIs, variance commentary and a live dashboard that opens on any phone.",
+  "metaTitle": "Monthly MIS Reports and Live Finance Dashboards",
+  "metaDescription": "Monthly MIS reports and live dashboards for owners and boards: P&L, balance sheet, cash flow, KPIs and variance commentary delivered by the 7th on WhatsApp.",
+  "heroIntro": "The numbers you actually manage the business with: a one-page summary and a live dashboard, delivered by the 7th every month.",
+  "overview": "A management information system (MIS) report should answer three questions quickly: how did we do, where did cash go, and what needs attention. We prepare yours from reconciled books, add commentary in plain language and send a PDF and dashboard link on WhatsApp by the 7th.",
+  "whatWeDo": [
+    "Prepare the monthly profit and loss, balance sheet and cash flow with commentary.",
+    "Track KPIs such as gross margin, receivable days and cash runway.",
+    "Analyse performance by department, branch, project or business unit.",
+    "Produce variance reports against budget, forecast or prior periods.",
+    "Build a live dashboard that summarises the key numbers in one view.",
+    "Send a one-page PDF summary on WhatsApp by the 7th every month."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Standard one-page MIS and live dashboard.",
+    "growth": "Custom KPIs, department views and variance commentary.",
+    "cfo": "Forecast-linked MIS with scenarios and board-ready packs."
+  },
+  "duration": "",
+  "note": "Dashboards are built in Looker Studio, so a link opens on any phone or laptop.",
+  "faqs": [
+    {
+      "q": "When do I receive the MIS?",
+      "a": "By the 7th of the following month, with a PDF summary and a dashboard link sent on WhatsApp."
+    },
+    {
+      "q": "Can the MIS show departments or projects?",
+      "a": "Yes, on Growth and CFO. You can also add department, branch, product or project-level packs as an add-on module."
+    }
+  ],
+  "related": [
+    "dashboard-reporting-build",
+    "fpa-cfo-advisory",
+    "financial-reporting"
+  ],
+  "body": ""
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Yaqeen Advisory",
+  "legalName": "Yaqeen Advisory",
+  "tagline": "Certainty, verified.",
+  "description": "Yaqeen Advisory is a tech-enabled finance team for startups, SMEs and established companies in India and the GCC: accounting, tax, payroll, financial reporting, FP&A and audit support.",
+  "siteUrl": "https://www.yaqeenadvisory.com",
+  "email": "hello@yaqeenadvisory.com",
+  "phone": "",
+  "whatsapp": "",
+  "address": {
+    "line": "",
+    "city": "Kozhikode",
+    "region": "Kerala",
+    "country": "India"
+  },
+  "social": {
+    "linkedin": "",
+    "instagram": "",
+    "x": "",
+    "youtube": ""
+  },
+  "formEndpoint": "",
+  "analyticsId": "",
+  "googleSiteVerification": "",
+  "bingSiteVerification": "",
+  "headerCtaLabel": "Book a free call",
+  "headerCtaUrl": "/contact/",
+  "footerAbout": "A tech-enabled finance team for owner-led and growing businesses in India and the GCC. Books closed by the 7th, compliance on autopilot, and numbers you can read.",
+  "disclaimer": "Yaqeen Advisory provides accounting, tax compliance support, payroll, reporting and advisory services. We do not perform statutory audit or tax audit; these are carried out by an independent auditor appointed by you. Information on this website is general in nature and is not tax, legal or investment advice."
+}

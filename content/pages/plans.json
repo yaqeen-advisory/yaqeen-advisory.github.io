@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "title": "Plans: Foundation, Growth and CFO Finance Subscriptions",
+    "description": "Compare Yaqeen Advisory plans for India, the UAE and Saudi Arabia: Foundation, Growth and CFO. See what is included, add-on modules and how pricing works."
+  },
+  "hero": {
+    "eyebrow": "Plans",
+    "heading": "Pick the depth of insight you need.",
+    "text": "The same accounting and compliance engine runs underneath every tier. What changes is how much analysis and advice sits on top. Pay for what you use, never for what you do not."
+  },
+  "layers": {
+    "eyebrow": "How it is organised",
+    "heading": "Three layers. Pay only for what you use.",
+    "text": "Every client gets a core subscription. Add modules when you need them, and bring in projects for one-time work. Packs never force you to buy things you do not need.",
+    "items": [
+      {
+        "title": "Core subscription",
+        "cadence": "Monthly, ongoing",
+        "text": "Choose a tier: Foundation, Growth or CFO. The tier sets the depth of insight, from compliance to analysis to strategy.",
+        "pricing": "Priced by monthly transaction volume"
+      },
+      {
+        "title": "Add-on modules",
+        "cadence": "Monthly or per cycle",
+        "text": "Switch on extra capacity or capability when you need it: more employees, more entities, Ind AS or IFRS reporting and more.",
+        "pricing": "Priced by the driver: per head, per entity or per cycle"
+      },
+      {
+        "title": "Projects",
+        "cadence": "One-time, fixed fee",
+        "text": "Books clean-ups, audit readiness, financial models, system setup and automation. Scoped up front, delivered with a clear handover.",
+        "pricing": "Quoted per project"
+      }
+    ],
+    "note": "A client who outgrows a limit pays for the extra volume. They do not jump to a bigger tier. Tiers change only when you want a different kind of value: more analysis, forecasting or strategy."
+  },
+  "priceDrivers": [
+    {
+      "title": "Transaction volume",
+      "text": "Entries per month fall into bands: up to 150, 151 to 400, 401 to 800, and above 800 on a custom quote."
+    },
+    {
+      "title": "Headcount",
+      "text": "Each plan includes payroll up to a limit. Extra employees are charged per head, so you never have to change plans just for payroll."
+    },
+    {
+      "title": "Entities",
+      "text": "Each additional company, LLP, proprietorship or branch with separate books is added as a module."
+    },
+    {
+      "title": "Registrations",
+      "text": "Extra GST or VAT registrations add filings, so they are priced per registration."
+    }
+  ],
+  "tiersHeading": "Foundation, Growth or CFO",
+  "tiersText": "Start where you are. Move up when you want more analysis, forecasting or strategy.",
+  "tiers": [
+    {
+      "id": "foundation",
+      "name": "Foundation",
+      "tagline": "Get organised and compliant",
+      "bestFor": "Owner-led businesses that need clean books, on-time filings and a clear monthly picture.",
+      "features": [
+        "Full bookkeeping with month-end close by the 7th",
+        "Tax filings as applicable: GST, TDS and income tax in India; VAT, corporate tax or Zakat in the Gulf",
+        "Payroll for up to 10 employees",
+        "One-page MIS and live dashboard",
+        "Year-end statements under local standards"
+      ],
+      "outcome": "No compliance surprises, and you always know your numbers."
+    },
+    {
+      "id": "growth",
+      "name": "Growth",
+      "tagline": "Understand and improve performance",
+      "bestFor": "Growing businesses with a team, several cost centres, or lenders and investors asking questions.",
+      "features": [
+        "Everything in Foundation",
+        "Custom KPIs, department and project views",
+        "Budget vs actual and a 13-week cash forecast",
+        "Payroll for up to 25 employees",
+        "Audit readiness and a quarterly review call"
+      ],
+      "outcome": "You see what drives profit and cash, and you act on it."
+    },
+    {
+      "id": "cfo",
+      "name": "CFO",
+      "tagline": "Plan, fund and scale",
+      "bestFor": "Businesses planning a raise, an expansion or a bank facility that want finance leadership without a full-time CFO.",
+      "features": [
+        "Everything in Growth",
+        "FP&A: budgets, rolling forecasts and scenarios",
+        "Lender and investor reporting packs",
+        "Payroll for up to 50 employees",
+        "Monthly review call and up to 12 hours of modelling support a year"
+      ],
+      "outcome": "A finance partner in the room when decisions get made."
+    }
+  ],
+  "compareHeading": "What is in each tier",
+  "compareText": "Choose your market to see exactly what each tier includes.",
+  "india": {
+    "label": "India",
+    "feeLabel": "Monthly fee (INR)",
+    "groups": [
+      {
+        "title": "Accounting and bookkeeping",
+        "rows": [
+          {
+            "label": "Bookkeeping: sales, purchases, expenses and journals",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Bank, card and payment-gateway reconciliation",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Receivables and payables with ageing reports",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Fixed asset register and depreciation",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Month-end close and review by the 7th",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          }
+        ]
+      },
+      {
+        "title": "Tax and compliance, as applicable to you",
+        "rows": [
+          {
+            "label": "GST returns, reconciliation and input credit tracking",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "TDS deduction, payment and quarterly returns",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Income tax: entity return and advance tax",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Compliance calendar with deadline reminders",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Tax planning review",
+            "foundation": "Annual",
+            "growth": "Annual",
+            "cfo": "Quarterly"
+          }
+        ]
+      },
+      {
+        "title": "Payroll",
+        "rows": [
+          {
+            "label": "Payroll with PF, ESI, professional tax and Form 16",
+            "foundation": "Up to 10 employees",
+            "growth": "Up to 25 employees",
+            "cfo": "Up to 50 employees"
+          }
+        ]
+      },
+      {
+        "title": "Reporting and insight",
+        "rows": [
+          {
+            "label": "One-page MIS delivered by the 7th",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Live dashboard link",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "KPIs, department and project views, variance commentary",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Budget vs actual tracking",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Cash flow forecast",
+            "foundation": "no",
+            "growth": "13-week",
+            "cfo": "Rolling, with scenarios"
+          }
+        ]
+      },
+      {
+        "title": "Financial statements",
+        "rows": [
+          {
+            "label": "Year-end financial statements under Indian GAAP",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Ind AS or IFRS statements",
+            "foundation": "no",
+            "growth": "Add-on",
+            "cfo": "Add-on"
+          }
+        ]
+      },
+      {
+        "title": "Advisory and support",
+        "rows": [
+          {
+            "label": "Audit readiness and auditor query support",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Review call with your accountant",
+            "foundation": "no",
+            "growth": "Quarterly",
+            "cfo": "Monthly"
+          },
+          {
+            "label": "FP&A: budgets, rolling forecasts and scenarios",
+            "foundation": "no",
+            "growth": "no",
+            "cfo": "yes"
+          },
+          {
+            "label": "Lender and investor reporting packs",
+            "foundation": "no",
+            "growth": "no",
+            "cfo": "yes"
+          },
+          {
+            "label": "Financial modelling support",
+            "foundation": "no",
+            "growth": "no",
+            "cfo": "Up to 12 hours a year"
+          }
+        ]
+      },
+      {
+        "title": "Service",
+        "rows": [
+          {
+            "label": "Named accountant and a WhatsApp group",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Response time on queries",
+            "foundation": "2 working days",
+            "growth": "1 working day",
+            "cfo": "Same working day"
+          }
+        ]
+      }
+    ]
+  },
+  "gcc": {
+    "label": "UAE and Saudi Arabia",
+    "feeLabel": "Monthly fee (AED or SAR)",
+    "groups": [
+      {
+        "title": "Accounting and bookkeeping",
+        "rows": [
+          {
+            "label": "Bookkeeping on an IFRS-aligned chart of accounts",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Multi-currency accounting and revaluation",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Bank, card and payment reconciliation",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Receivables and payables with ageing reports",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Month-end close and review by the 7th",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          }
+        ]
+      },
+      {
+        "title": "Tax and compliance, as applicable to you",
+        "rows": [
+          {
+            "market": "UAE",
+            "label": "VAT returns, reconciliation and input tax tracking",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "UAE",
+            "label": "Corporate tax computation and annual return",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "UAE",
+            "label": "Registrations and relief assessment, including free zone status",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "KSA",
+            "label": "VAT returns and reconciliation to the ledger",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "KSA",
+            "label": "Zakat or income tax computation and annual declaration",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "KSA",
+            "label": "Withholding tax on payments to non-residents",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "KSA",
+            "label": "ZATCA e-invoicing reporting and clearance monitoring",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Compliance calendar with deadline reminders",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Tax planning review",
+            "foundation": "Annual",
+            "growth": "Annual",
+            "cfo": "Quarterly"
+          }
+        ]
+      },
+      {
+        "title": "Payroll",
+        "rows": [
+          {
+            "market": "UAE",
+            "label": "Payroll with WPS files, payslips and gratuity calculation",
+            "foundation": "Up to 10 employees",
+            "growth": "Up to 25 employees",
+            "cfo": "Up to 50 employees"
+          },
+          {
+            "market": "KSA",
+            "label": "Payroll with WPS files, GOSI and end-of-service benefits",
+            "foundation": "Up to 10 employees",
+            "growth": "Up to 25 employees",
+            "cfo": "Up to 50 employees"
+          }
+        ]
+      },
+      {
+        "title": "Reporting and insight",
+        "rows": [
+          {
+            "label": "One-page MIS and live dashboard by the 7th",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "KPIs, department and project views, variance commentary",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Budget vs actual tracking",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Cash flow forecast",
+            "foundation": "no",
+            "growth": "13-week",
+            "cfo": "Rolling, with scenarios"
+          }
+        ]
+      },
+      {
+        "title": "Financial statements",
+        "rows": [
+          {
+            "label": "Annual financial statements under IFRS for SMEs",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Full IFRS statements and disclosures",
+            "foundation": "no",
+            "growth": "Add-on",
+            "cfo": "Add-on"
+          }
+        ]
+      },
+      {
+        "title": "Advisory and support",
+        "rows": [
+          {
+            "label": "Audit readiness for your licensed auditor",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "market": "KSA",
+            "label": "Support for ZATCA queries and assessments",
+            "foundation": "no",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Review call with your accountant",
+            "foundation": "no",
+            "growth": "Quarterly",
+            "cfo": "Monthly"
+          },
+          {
+            "label": "FP&A: budgets, rolling forecasts and scenarios",
+            "foundation": "no",
+            "growth": "no",
+            "cfo": "yes"
+          },
+          {
+            "label": "Lender and investor reporting packs",
+            "foundation": "no",
+            "growth": "no",
+            "cfo": "yes"
+          },
+          {
+            "label": "Financial modelling support",
+            "foundation": "no",
+            "growth": "no",
+            "cfo": "Up to 12 hours a year"
+          }
+        ]
+      },
+      {
+        "title": "Service",
+        "rows": [
+          {
+            "label": "Named accountant and a WhatsApp group",
+            "foundation": "yes",
+            "growth": "yes",
+            "cfo": "yes"
+          },
+          {
+            "label": "Response time on queries",
+            "foundation": "2 working days",
+            "growth": "1 working day",
+            "cfo": "Same working day"
+          }
+        ]
+      }
+    ]
+  },
+  "addonsHeading": "Add capacity or capability when you need it",
+  "addonsText": "Recurring modules that sit on top of your core subscription. Each is priced by the thing that drives the work.",
+  "addons": [
+    {
+      "icon": "users",
+      "name": "Extra payroll headcount",
+      "text": "Payroll processing, payslips and statutory filings for employees above your plan limit.",
+      "pricedBy": "Per employee, per month",
+      "worksWith": "All plans"
+    },
+    {
+      "icon": "layers",
+      "name": "Additional entity",
+      "text": "Full plan scope for another company, LLP or proprietorship, with consolidated MIS when the entities are related.",
+      "pricedBy": "Per entity, per month",
+      "worksWith": "All plans"
+    },
+    {
+      "icon": "receipt",
+      "name": "Additional GST or VAT registration",
+      "text": "Returns, reconciliation and credit tracking for each extra registration.",
+      "pricedBy": "Per registration, per month",
+      "worksWith": "All plans"
+    },
+    {
+      "icon": "file",
+      "name": "Interim financial statements",
+      "text": "Quarterly or half-yearly statements for lenders, investors or group reporting.",
+      "pricedBy": "Per reporting period",
+      "worksWith": "All plans"
+    },
+    {
+      "icon": "book",
+      "name": "Ind AS reporting",
+      "text": "Ind AS statements with disclosures for companies that must or choose to follow Ind AS.",
+      "pricedBy": "Per reporting cycle",
+      "worksWith": "Growth, CFO"
+    },
+    {
+      "icon": "globe",
+      "name": "IFRS reporting",
+      "text": "IFRS or IFRS for SMEs statements with disclosures, including group reporting needs.",
+      "pricedBy": "Per reporting cycle",
+      "worksWith": "Growth, CFO"
+    },
+    {
+      "icon": "link",
+      "name": "Consolidation",
+      "text": "Group consolidation with intercompany eliminations and currency translation.",
+      "pricedBy": "Per reporting cycle",
+      "worksWith": "CFO"
+    },
+    {
+      "icon": "sliders",
+      "name": "Transfer pricing support (UAE and KSA)",
+      "text": "Related-party mapping, benchmarking inputs and disclosure preparation.",
+      "pricedBy": "Per annual cycle",
+      "worksWith": "Growth, CFO"
+    },
+    {
+      "icon": "chart",
+      "name": "Additional MIS packs",
+      "text": "Department, branch, product or project-level reporting on top of your standard MIS.",
+      "pricedBy": "Per pack, per month",
+      "worksWith": "Growth, CFO"
+    },
+    {
+      "icon": "clock",
+      "name": "Extra advisory hours",
+      "text": "Time on pricing, expansion, funding or restructuring decisions beyond your plan.",
+      "pricedBy": "Per hour or hour bundle",
+      "worksWith": "Growth, CFO"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why are monthly fees not listed?",
+      "a": "Fees depend on your monthly transaction volume, headcount, number of entities and registrations. After a 30-minute discovery call we send a scoped proposal within 2 working days, with your plan, add-ons and fee in plain language."
+    },
+    {
+      "q": "What happens if my business grows past a plan limit?",
+      "a": "You pay for the extra volume or headcount, for example extra employees per head. You do not have to jump to a bigger tier. Tiers change only when you want a different kind of value, such as forecasting or strategy."
+    },
+    {
+      "q": "Are all filings included?",
+      "a": "Filings are scoped at onboarding to what applies to your registrations. If you have no GST or TDS obligation, you are not billed for them. Government fees, interest and penalties are paid by you at actuals."
+    },
+    {
+      "q": "Can I change plans later?",
+      "a": "Yes. Many clients start with Foundation or a books clean-up project and move to Growth or CFO as they need more analysis or planning."
+    },
+    {
+      "q": "Do you also do one-time work?",
+      "a": "Yes. Projects such as books clean-up, IFRS or Ind AS conversion, financial model builds, due diligence support and system setup are scoped up front for a fixed fee."
+    }
+  ],
+  "cta": {
+    "heading": "Not sure which plan fits?",
+    "text": "Tell us about your business. We will recommend a plan and send a scoped proposal within 2 working days."
+  }
+}

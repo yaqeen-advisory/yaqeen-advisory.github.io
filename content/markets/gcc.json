@@ -1,0 +1,67 @@
+{
+  "order": 4,
+  "title": "Accounting and Tax Services for the GCC and India-GCC Groups",
+  "navLabel": "GCC overview",
+  "eyebrow": "GCC",
+  "menuText": "One team for India and the Gulf",
+  "summary": "One team and one set of numbers for businesses operating in India and the Gulf.",
+  "metaTitle": "GCC Accounting, VAT and Tax Services for India-GCC Groups",
+  "metaDescription": "Outsourced finance for the GCC: UAE and Saudi VAT, corporate tax and Zakat, payroll, IFRS reporting and consolidated MIS for India-GCC groups.",
+  "heroHeading": "One finance team on both sides of the Gulf.",
+  "heroIntro": "For businesses with operations, owners or investors in India and the GCC, we run the finance function across both, so your group numbers always reconcile.",
+  "pills": [
+    "UAE",
+    "Saudi Arabia",
+    "India",
+    "Oman and Bahrain VAT on request"
+  ],
+  "overview": "Cross-border groups often keep separate books, separate advisers and separate reporting calendars. We bring both sides into one monthly cycle with one set of definitions, so owners and lenders see a single picture.\n\nThere are two ways to work with us in the GCC. Direct: you hire us as your outsourced finance team. Partner: you keep the client and the relationship, and we run the back office under your brand and your service levels.",
+  "howHeading": "Two typical set-ups",
+  "howWeServe": [
+    "Indian business with GCC operations: consolidated MIS in INR and in AED or SAR, with Indian GAAP or Ind AS to IFRS reconciliation.",
+    "Gulf-based owner with an Indian business: monthly reporting in AED or SAR, with Indian GST, TDS, income tax and payroll handled for you.",
+    "Intercompany accounts, loans and recharges tracked and reconciled.",
+    "Currency translation and revaluation each month.",
+    "Data preparation for FEMA-related filings such as the annual FLA return."
+  ],
+  "highlightsHeading": "What stays local",
+  "highlights": [
+    {
+      "title": "Registrations and filings",
+      "text": "Submitted through your own portal account or a licensed agent where representation is required."
+    },
+    {
+      "title": "Statutory audit",
+      "text": "Performed by your licensed auditor in the country."
+    },
+    {
+      "title": "Other GCC markets",
+      "text": "Oman and Bahrain VAT compliance is available on request."
+    },
+    {
+      "title": "Partner programme",
+      "text": "White-label delivery for business-setup firms, corporate service providers and advisory firms."
+    }
+  ],
+  "services": [
+    "uae-vat",
+    "uae-corporate-tax",
+    "saudi-vat-zatca-e-invoicing",
+    "zakat-income-tax-saudi-arabia",
+    "payroll-uae-wps",
+    "payroll-saudi-wps-gosi",
+    "consolidation-group-reporting",
+    "financial-statements-ifrs"
+  ],
+  "note": "Delivery runs from our India team. Registrations, representation and signatures that need local licensing are handled by you or a licensed in-country partner.",
+  "faqs": [
+    {
+      "q": "Which GCC countries do you cover?",
+      "a": "The UAE and Saudi Arabia, with Oman and Bahrain VAT compliance available on request."
+    },
+    {
+      "q": "Do you provide reports in local currency?",
+      "a": "Yes. Reports are in AED or SAR, with INR views if you also operate in India."
+    }
+  ]
+}

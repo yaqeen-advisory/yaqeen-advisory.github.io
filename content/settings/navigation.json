@@ -1,0 +1,31 @@
+{
+  "main": [
+    {
+      "label": "Services",
+      "url": "/services/",
+      "menu": "services"
+    },
+    {
+      "label": "Markets",
+      "url": "/gcc/",
+      "menu": "markets"
+    },
+    {
+      "label": "Who we serve",
+      "url": "/solutions/",
+      "menu": "solutions"
+    },
+    {
+      "label": "Plans",
+      "url": "/plans/"
+    },
+    {
+      "label": "Insights",
+      "url": "/insights/"
+    },
+    {
+      "label": "About",
+      "url": "/about/"
+    }
+  ]
+}

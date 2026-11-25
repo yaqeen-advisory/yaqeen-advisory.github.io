@@ -1,0 +1,79 @@
+{
+  "order": 1,
+  "icon": "rocket",
+  "title": "Accounting and Finance Support for Startups",
+  "navLabel": "Startups",
+  "eyebrow": "Startups",
+  "menuText": "Clean books, compliance and investor-ready reporting",
+  "summary": "Clean books, on-time compliance and investor-ready reporting, without hiring a finance team.",
+  "metaTitle": "Startup Accounting, Compliance and Investor Reporting",
+  "metaDescription": "Accounting, GST and VAT compliance, payroll, MIS and financial models for startups in India and the GCC. Be investor-ready without hiring a finance team.",
+  "heroHeading": "Finance that keeps up with a startup.",
+  "heroIntro": "Clean books, filings on time, a monthly MIS you can send to investors and a financial model you can trust, without hiring a finance team too early.",
+  "challengesHeading": "Where startup finance gets hard",
+  "challenges": [
+    {
+      "icon": "book",
+      "title": "Books fall behind",
+      "text": "Founders are busy building. Records pile up, bank accounts go unreconciled and surprises appear at the worst time."
+    },
+    {
+      "icon": "trend",
+      "title": "Investors want numbers",
+      "text": "Fundraising needs a model, a monthly MIS and clean historical accounts, and each takes time to build."
+    },
+    {
+      "icon": "shield",
+      "title": "Compliance is new",
+      "text": "GST, VAT, TDS, payroll and entity filings arrive before there is anyone to own them."
+    }
+  ],
+  "helpHeading": "How we help a startup",
+  "howWeHelp": [
+    {
+      "title": "Clean base first",
+      "text": "A books clean-up or catch-up gives you a reliable starting point, then monthly bookkeeping keeps it clean.",
+      "link": "/services/books-cleanup/",
+      "linkLabel": "Books clean-up"
+    },
+    {
+      "title": "Investor-ready reporting",
+      "text": "One-page MIS and a live dashboard every month, with KPIs and variance commentary on Growth.",
+      "link": "/services/mis-dashboards/",
+      "linkLabel": "MIS and dashboards"
+    },
+    {
+      "title": "Models for the raise",
+      "text": "Three-statement models with scenarios, built so your team can own them.",
+      "link": "/services/financial-modelling/",
+      "linkLabel": "Financial modelling"
+    },
+    {
+      "title": "Diligence without drama",
+      "text": "A pre-diligence review finds and fixes issues before an investor does.",
+      "link": "/services/due-diligence-support/",
+      "linkLabel": "Due diligence support"
+    }
+  ],
+  "recommendedPlan": "foundation",
+  "planHeading": "Start with Foundation, move up as you hire and raise",
+  "planText": "Owner-led businesses that need clean books, on-time filings and a clear monthly picture. Move to Growth when you add a team and investors start asking questions.",
+  "services": [
+    "accounting-bookkeeping",
+    "gst-india",
+    "payroll-india",
+    "mis-dashboards",
+    "financial-modelling",
+    "due-diligence-support"
+  ],
+  "faqs": [
+    {
+      "q": "When should a startup outsource finance?",
+      "a": "Typically as soon as bookkeeping and compliance start competing with building the product for the founder’s time, which is often before the first finance hire."
+    },
+    {
+      "q": "Can you help us prepare for a funding round?",
+      "a": "Yes. We prepare clean accounts, a monthly MIS, a financial model and a pre-diligence review."
+    }
+  ]
+}

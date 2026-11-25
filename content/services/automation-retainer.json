@@ -1,0 +1,44 @@
+{
+  "title": "Finance Automation Retainer",
+  "navLabel": "Automation retainer",
+  "parent": "finance-automation",
+  "order": 4,
+  "icon": "sliders",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Ongoing improvements, monitoring, fixes and a monthly review of time saved and errors avoided.",
+  "metaTitle": "Finance Automation Retainer: Monitoring and Improvements",
+  "metaDescription": "A monthly retainer to improve and monitor finance automations: new workflows, fixes when systems change, and a monthly review of time saved and errors avoided.",
+  "heroIntro": "Keep your automations working and keep improving them, for a monthly fee.",
+  "overview": "Automations break when systems change and miss new opportunities when nobody owns them. An optional retainer after any project gives you someone to monitor, fix and extend what we built.",
+  "whatWeDo": [
+    "Ongoing improvements and new automations.",
+    "Monitoring of running workflows.",
+    "Fixes and support when systems change.",
+    "A monthly review of time saved and errors avoided."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Monthly. Optional after any project.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "Do I need a project first?",
+      "a": "The retainer is designed to follow a project, so we know what we are supporting."
+    }
+  ],
+  "related": [
+    "workflow-automation",
+    "dashboard-reporting-build",
+    "accounting-system-setup"
+  ],
+  "body": ""
+}

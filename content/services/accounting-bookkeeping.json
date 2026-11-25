@@ -1,0 +1,58 @@
+{
+  "title": "Accounting and Bookkeeping Services",
+  "navLabel": "Accounting and bookkeeping",
+  "parent": "",
+  "order": 1,
+  "icon": "book",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Monthly bookkeeping, reconciliations and a month-end close by the 7th, in the accounting software you own.",
+  "metaTitle": "Accounting and Bookkeeping Services for India and the GCC",
+  "metaDescription": "Outsourced accounting and bookkeeping with month-end close by the 7th, bank reconciliation and a named accountant. For businesses in India, the UAE and Saudi Arabia.",
+  "heroIntro": "The foundation every other finance service depends on: clean books, reconciled every month and closed by the 7th, so your numbers are never stale.",
+  "overview": "Good books are not a back-office chore. They are what your tax filings, bank facilities, audits and decisions are built on. We keep your accounting current, reconciled and reviewed, in accounting software you own, so your data and history always stay with you.\n\nIn India we keep books under Indian GAAP. In the UAE and Saudi Arabia we use an IFRS-aligned chart of accounts with multi-currency support. AI helps categorise transactions and read bills; a qualified accountant reviews the exceptions and signs off every close.",
+  "whatWeDo": [
+    "Record sales, purchases, expenses and journals in your accounting software, each linked to its source document.",
+    "Categorise transactions with AI assistance and review the exceptions by hand.",
+    "Reconcile bank, card and payment-gateway accounts every month.",
+    "Maintain receivables and payables ledgers with ageing and follow-up lists.",
+    "Maintain the fixed asset register and post depreciation.",
+    "Close the month with a review checklist and lock the closed period."
+  ],
+  "whoFor": [
+    "Owner-led businesses that want clean books without hiring a full-time accountant.",
+    "Startups preparing for audit, funding or due diligence.",
+    "Businesses switching from spreadsheets or an inconsistent bookkeeper."
+  ],
+  "byPlan": {
+    "foundation": "Full bookkeeping and close by the 7th.",
+    "growth": "Adds cost-centre and project tagging.",
+    "cfo": "Adds accrual and provision reviews each month."
+  },
+  "duration": "",
+  "note": "All accounting work is done in accounting software you own, so your data and history always stay with you.",
+  "faqs": [
+    {
+      "q": "Which accounting software do you work in?",
+      "a": "Zoho Books or Tally Prime, and the system you already use. If you do not have one, we help you choose and set it up as a project."
+    },
+    {
+      "q": "What does \"closed by the 7th\" mean?",
+      "a": "Every month is reconciled, reviewed and closed by the 7th of the following month. You receive a one-page MIS and a live dashboard link at the same time."
+    },
+    {
+      "q": "Do you also do GST, VAT and payroll?",
+      "a": "Yes. Bookkeeping is the base layer. Tax filings and payroll that apply to your registrations are included in your plan scope."
+    }
+  ],
+  "related": [
+    "mis-dashboards",
+    "gst-india",
+    "payroll-india"
+  ],
+  "body": ""
+}

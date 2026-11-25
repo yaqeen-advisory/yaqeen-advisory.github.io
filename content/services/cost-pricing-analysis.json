@@ -1,0 +1,48 @@
+{
+  "title": "Cost, Margin and Pricing Analysis",
+  "navLabel": "Cost and pricing analysis",
+  "parent": "fpa-cfo-advisory",
+  "order": 3,
+  "icon": "percent",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Unit economics by product, service or location, break-even analysis and pricing recommendations backed by your data.",
+  "metaTitle": "Cost, Margin and Pricing Analysis for SMEs",
+  "metaDescription": "Unit economics, break-even and contribution analysis and data-backed pricing recommendations for SMEs. Fixed-fee project with a short action plan.",
+  "heroIntro": "Find out which products, services and locations make money, and price accordingly.",
+  "overview": "Many businesses price by instinct and discover margin problems late. We analyse unit economics from your books and operating data, find where margin is made and lost, and recommend pricing changes with the expected impact.",
+  "whatWeDo": [
+    "Unit economics by product, service or location.",
+    "Break-even and contribution analysis.",
+    "Pricing recommendations backed by your data.",
+    "A short action plan with expected impact."
+  ],
+  "whoFor": [
+    "Businesses with several products, services or locations.",
+    "Owners who suspect some work is not profitable.",
+    "Teams planning a price change."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 3 weeks.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "What data do you need?",
+      "a": "Your accounting records plus whatever operating data you have, such as units sold, hours or location splits. We tell you what is missing at the start."
+    }
+  ],
+  "related": [
+    "fpa-cfo-advisory",
+    "financial-modelling",
+    "mis-dashboards"
+  ],
+  "body": ""
+}

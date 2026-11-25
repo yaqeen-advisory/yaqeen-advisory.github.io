@@ -1,0 +1,75 @@
+{
+  "order": 2,
+  "title": "Accounting, VAT and Corporate Tax Services in the UAE",
+  "navLabel": "UAE",
+  "eyebrow": "United Arab Emirates",
+  "menuText": "VAT, corporate tax, WPS payroll and IFRS reporting",
+  "summary": "UAE VAT, corporate tax, WPS payroll and IFRS-aligned reporting for mainland and free zone businesses.",
+  "metaTitle": "Accounting, VAT and Corporate Tax Services in the UAE",
+  "metaDescription": "UAE accounting, VAT returns, corporate tax, WPS payroll and IFRS reporting for mainland and free zone companies. Monthly MIS and a named accountant.",
+  "heroHeading": "Accounting, VAT and corporate tax support for businesses in the UAE.",
+  "heroIntro": "IFRS-aligned books, VAT and corporate tax prepared and reconciled, WPS payroll and a monthly MIS in AED, with INR views if you also operate in India.",
+  "pills": [
+    "UAE VAT",
+    "Corporate tax",
+    "WPS payroll",
+    "IFRS for SMEs",
+    "Free zone",
+    "AED reporting"
+  ],
+  "overview": "The UAE regime is now VAT plus corporate tax, with payroll running through WPS. Each depends on the quality of your accounting: VAT returns have to reconcile to the ledger, and corporate tax starts from accounting profit. We keep books on an IFRS-aligned chart of accounts with multi-currency support so your numbers support tax, banking and audit.\n\nDelivery runs from our India team. Returns are submitted through your own portal accounts or a licensed tax agent where representation is required. We prepare, reconcile and walk you through approval.",
+  "howHeading": "What you get in the UAE",
+  "howWeServe": [
+    "Bookkeeping on an IFRS-aligned chart of accounts with multi-currency revaluation.",
+    "VAT returns, reconciliation and input tax tracking.",
+    "Corporate tax computation, relief and free zone status assessment, and the annual return.",
+    "Payroll with WPS files, payslips and gratuity calculation.",
+    "Annual statements under IFRS for SMEs, with full IFRS as an add-on.",
+    "Bilingual coordination with your licensed auditor and PRO providers."
+  ],
+  "highlightsHeading": "What stays local",
+  "highlights": [
+    {
+      "title": "Registrations and filings",
+      "text": "Submitted through your portal account or a licensed agent. We prepare everything and walk you through approval."
+    },
+    {
+      "title": "Statutory audit",
+      "text": "Performed by your licensed auditor in the country. We prepare schedules and handle queries."
+    },
+    {
+      "title": "Other GCC markets",
+      "text": "Oman and Bahrain VAT compliance is available on request."
+    },
+    {
+      "title": "India link",
+      "text": "For groups with Indian operations, consolidated MIS in INR and AED with intercompany tracking."
+    }
+  ],
+  "services": [
+    "uae-vat",
+    "uae-corporate-tax",
+    "payroll-uae-wps",
+    "accounting-bookkeeping",
+    "financial-statements-ifrs",
+    "mis-dashboards",
+    "consolidation-group-reporting",
+    "audit-readiness",
+    "fpa-cfo-advisory"
+  ],
+  "note": "Everything is prepared from books kept to an IFRS-aligned standard, so your numbers support tax, banking and audit.",
+  "faqs": [
+    {
+      "q": "Do you serve free zone companies?",
+      "a": "Yes. We assess free zone status, including Qualifying Free Zone Person conditions, as part of corporate tax relief assessment."
+    },
+    {
+      "q": "Can you serve us from India?",
+      "a": "Yes. Delivery runs from our India team. Registrations, representation and signatures that need local licensing are handled by you or a licensed in-country partner."
+    },
+    {
+      "q": "Do you work with business-setup firms?",
+      "a": "Yes. Our partner programme offers white-label bookkeeping, VAT, corporate tax preparation, payroll and MIS to firms that serve GCC clients."
+    }
+  ]
+}

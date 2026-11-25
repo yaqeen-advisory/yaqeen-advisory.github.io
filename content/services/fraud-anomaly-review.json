@@ -1,0 +1,48 @@
+{
+  "title": "Fraud and Anomaly Review",
+  "navLabel": "Fraud and anomaly review",
+  "parent": "audit-support",
+  "order": 4,
+  "icon": "target",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Duplicate payment and vendor master checks, unusual journal testing, expense policy checks and payroll anomaly review.",
+  "metaTitle": "Fraud and Anomaly Review: Data Checks on Your Books",
+  "metaDescription": "One-time fraud and anomaly review: duplicate payments, vendor checks, unusual journals, expense claims and payroll anomalies, with an evidence-backed report.",
+  "heroIntro": "Data-driven checks across payments, journals, expenses and payroll, with an evidence-backed report of what looks wrong.",
+  "overview": "Most irregularities leave patterns in the data: the same invoice paid twice, journals posted at odd times, round-sum entries, employees who do not exist. We test for them across your accounting and payroll data and report what we find with evidence.",
+  "whatWeDo": [
+    "Duplicate payment and vendor master checks.",
+    "Unusual journal entry and round-sum testing.",
+    "Expense policy and reimbursement checks.",
+    "Payroll checks for ghost employees and unusual changes."
+  ],
+  "whoFor": [
+    "Businesses that suspect leakage or want reassurance.",
+    "Companies after a change in finance staff.",
+    "Boards and owners who are not close to day-to-day finance."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "One-time project, with an evidence-backed report.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "Is this a forensic investigation?",
+      "a": "No. It is an analytical review that flags anomalies for follow-up. If something serious emerges, you may need specialist forensic or legal support."
+    }
+  ],
+  "related": [
+    "internal-audit",
+    "controls-sop-review",
+    "audit-readiness"
+  ],
+  "body": ""
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Financial Due Diligence Support",
+  "navLabel": "Due diligence support",
+  "parent": "fpa-cfo-advisory",
+  "order": 4,
+  "icon": "search",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Financial and compliance health check, quality of earnings and working capital review, with key risks ranked.",
+  "metaTitle": "Financial Due Diligence Support for Buyers and Founders",
+  "metaDescription": "Financial and compliance due diligence support: health check, quality of earnings, working capital review, tax and statutory exposure and a ranked risk report.",
+  "heroIntro": "Know what you are buying or selling: a focused review of the numbers and compliance behind a deal or fundraise.",
+  "overview": "Investors, buyers and lenders ask hard questions. Whether you are preparing to be diligenced or reviewing a target, we assess the quality of reported earnings, working capital and compliance exposure and rank the key risks.",
+  "whatWeDo": [
+    "Financial and compliance health check.",
+    "Quality of earnings and working capital review.",
+    "Tax and statutory exposure summary.",
+    "Findings report with key risks ranked."
+  ],
+  "whoFor": [
+    "Founders preparing for investor diligence.",
+    "Buyers reviewing a target business.",
+    "Businesses applying for large bank facilities."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 3 weeks.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "Is this an audit?",
+      "a": "No. It is a focused advisory review. We do not perform statutory audit or tax audit."
+    },
+    {
+      "q": "Can you help us prepare for investor diligence?",
+      "a": "Yes. A pre-diligence review finds and fixes issues before an investor does."
+    }
+  ],
+  "related": [
+    "audit-readiness",
+    "financial-modelling",
+    "fpa-cfo-advisory"
+  ],
+  "body": ""
+}

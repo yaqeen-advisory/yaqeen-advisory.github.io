@@ -1,0 +1,56 @@
+{
+  "title": "GST Compliance and Returns in India",
+  "navLabel": "GST (India)",
+  "parent": "taxation",
+  "order": 1,
+  "icon": "receipt",
+  "markets": [
+    "india"
+  ],
+  "kind": "subscription",
+  "summary": "GSTR-1 and GSTR-3B filing, purchase reconciliation with GSTR-2B, input credit tracking and notice support.",
+  "metaTitle": "GST Return Filing and Compliance Services in India",
+  "metaDescription": "GST compliance for Indian businesses: GSTR-1 and GSTR-3B filing, GSTR-2B reconciliation, input tax credit tracking, e-invoicing and notice support.",
+  "heroIntro": "Where you are registered under GST, we prepare and file your returns on time, reconcile credits and keep your GST position tied to your books.",
+  "overview": "GST is a monthly discipline: sales data, purchase data and credits all have to agree before you file. We make that part of your month-end close, so returns are prepared from reconciled books and filed before the due date, rather than assembled in a hurry.",
+  "whatWeDo": [
+    "Prepare and file GSTR-1 and GSTR-3B before each due date.",
+    "Reconcile purchases with GSTR-2B and flag mismatches and ineligible credits.",
+    "Track input tax credit, reversals and reverse charge liabilities.",
+    "Support e-invoicing and e-way bill workflows.",
+    "Prepare the annual return and reconciliation where applicable.",
+    "Prepare data and draft responses for GST notices."
+  ],
+  "whoFor": [
+    "Businesses registered under GST that want returns filed on time without chasing.",
+    "Companies with multiple GST registrations across states.",
+    "Exporters, e-commerce sellers and service businesses with complex invoicing."
+  ],
+  "byPlan": {
+    "foundation": "Filing, reconciliation and ITC tracking.",
+    "growth": "Adds a quarterly GST health review.",
+    "cfo": "Adds GST impact review on new products and contracts."
+  },
+  "duration": "",
+  "note": "Extra GST registrations add filings, so they are priced per registration as an add-on module.",
+  "faqs": [
+    {
+      "q": "What GST returns do you file?",
+      "a": "GSTR-1 and GSTR-3B for regular taxpayers, plus the annual return and reconciliation where applicable, scoped to your registrations at onboarding."
+    },
+    {
+      "q": "How do you handle input tax credit mismatches?",
+      "a": "Each month we reconcile your purchase ledger with GSTR-2B, flag missing or ineligible credits and follow up with suppliers through you."
+    },
+    {
+      "q": "Can you help with a GST notice?",
+      "a": "We prepare data and draft responses for GST notices. Matters that are legally reserved for a licensed practitioner are handled by your appointed professional."
+    }
+  ],
+  "related": [
+    "tds-income-tax-india",
+    "accounting-bookkeeping",
+    "payroll-india"
+  ],
+  "body": ""
+}

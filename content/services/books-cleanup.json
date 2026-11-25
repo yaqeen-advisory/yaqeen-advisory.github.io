@@ -1,0 +1,56 @@
+{
+  "title": "Books Clean-Up Service",
+  "navLabel": "Books clean-up",
+  "parent": "accounting-bookkeeping",
+  "order": 2,
+  "icon": "book",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Review and correct past records, reconcile banks and ledgers, and hand over a clean set of books with a findings note.",
+  "metaTitle": "Books Clean-Up Service: Fix Messy Accounting Records",
+  "metaDescription": "Fixed-fee books clean-up: correct past entries, reconcile bank and ledgers, clear open items and hand over audit-ready accounts. India, UAE and Saudi Arabia.",
+  "heroIntro": "A fixed-fee project that turns messy records into a clean, reconciled set of books. It is the usual starting point before moving to a monthly subscription.",
+  "overview": "Books go wrong in predictable ways: unreconciled bank accounts, miscoded expenses, missing bills, ledgers that do not agree with statements. We review what is there, correct it, close pending filings and hand over books you can trust.",
+  "whatWeDo": [
+    "Review and correct past records.",
+    "Reconcile banks and ledgers and fix classifications.",
+    "Close pending filings and clear open items.",
+    "Hand over a clean set of books and a findings note."
+  ],
+  "whoFor": [
+    "Businesses whose books have not been reviewed for a long time.",
+    "Companies preparing for audit, funding or a sale.",
+    "Owners taking over books from an outgoing bookkeeper."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 4 weeks. The usual starting point.",
+  "note": "Many clients start with a books clean-up and move to a monthly subscription once the base is clean.",
+  "faqs": [
+    {
+      "q": "How long does a books clean-up take?",
+      "a": "Typically 2 to 4 weeks, depending on how many months of records need review and how complete the source documents are."
+    },
+    {
+      "q": "What do I get at the end?",
+      "a": "A clean, reconciled set of books in your accounting software and a findings note that explains what was wrong and what was corrected."
+    },
+    {
+      "q": "Is it a fixed fee?",
+      "a": "Yes. We agree the scope, price and delivery date before we start."
+    }
+  ],
+  "related": [
+    "accounts-catch-up",
+    "accounting-bookkeeping",
+    "audit-readiness"
+  ],
+  "body": ""
+}

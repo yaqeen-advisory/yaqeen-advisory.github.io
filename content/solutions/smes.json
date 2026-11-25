@@ -1,0 +1,73 @@
+{
+  "order": 2,
+  "icon": "store",
+  "title": "Accounting, Tax and Finance Support for SMEs",
+  "navLabel": "SMEs",
+  "eyebrow": "SMEs",
+  "menuText": "Books, filings and MIS for owner-led businesses",
+  "summary": "Books, filings and a clear monthly picture for owner-led businesses, with a named accountant behind every deliverable.",
+  "metaTitle": "SME Accounting, Tax and Payroll Outsourcing",
+  "metaDescription": "Outsourced accounting, GST, VAT, payroll and MIS for SMEs in India and the GCC. A named accountant, books closed by the 7th and compliance on autopilot.",
+  "heroHeading": "Your finance function, run for you.",
+  "heroIntro": "SMEs need accurate books and on-time filings more than a finance department. We keep both running, so you can run the business.",
+  "challengesHeading": "Common SME finance challenges",
+  "challenges": [
+    {
+      "icon": "clock",
+      "title": "Owner as accountant",
+      "text": "Month-ends and filings fall on the owner or one overstretched employee."
+    },
+    {
+      "icon": "calendar",
+      "title": "Missed deadlines",
+      "text": "Several registrations on different calendars, with penalties for slips."
+    },
+    {
+      "icon": "chart",
+      "title": "No clear picture",
+      "text": "Numbers arrive late and in a form that is hard to act on."
+    }
+  ],
+  "helpHeading": "How we help an SME",
+  "howWeHelp": [
+    {
+      "title": "Monthly rhythm",
+      "text": "Bills in on WhatsApp, books closed by the 7th, MIS delivered, filings completed ahead of due dates.",
+      "link": "/how-we-work/",
+      "linkLabel": "How we work"
+    },
+    {
+      "title": "Compliance on autopilot",
+      "text": "A calendar for each registration and a confirmation once it is filed.",
+      "link": "/services/taxation/",
+      "linkLabel": "Tax compliance"
+    },
+    {
+      "title": "Payroll handled",
+      "text": "Statutory payroll to local rules, with payslips by email or WhatsApp.",
+      "link": "/services/payroll/",
+      "linkLabel": "Payroll"
+    },
+    {
+      "title": "Your software, your data",
+      "text": "We work in the accounting system you own, so data and history stay with you.",
+      "link": "/services/accounting-bookkeeping/",
+      "linkLabel": "Accounting and bookkeeping"
+    }
+  ],
+  "recommendedPlan": "foundation",
+  "services": [
+    "accounting-bookkeeping",
+    "gst-india",
+    "uae-vat",
+    "payroll",
+    "mis-dashboards",
+    "books-cleanup"
+  ],
+  "faqs": [
+    {
+      "q": "We have an in-house bookkeeper. Can you still help?",
+      "a": "Yes. We can review and close the books, handle compliance and reporting, and support your bookkeeper with a named accountant and a review checklist."
+    }
+  ]
+}

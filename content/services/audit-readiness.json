@@ -1,0 +1,54 @@
+{
+  "title": "Audit Readiness and Auditor Query Support",
+  "navLabel": "Audit readiness",
+  "parent": "audit-support",
+  "order": 1,
+  "icon": "shield",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "both",
+  "summary": "Closing schedules, reconciliations and working papers ready before fieldwork, with auditor requests tracked to completion.",
+  "metaTitle": "Audit Readiness Services: Prepare for Your Audit",
+  "metaDescription": "Get audit-ready before your auditor arrives: closing schedules, reconciliations, working papers, auditor request tracking and pre-audit review of key balances.",
+  "heroIntro": "Be ready before your auditor arrives: schedules, reconciliations and working papers prepared, and every auditor request tracked to completion.",
+  "overview": "An audit is faster and cheaper when the evidence is organised before the auditor asks for it. We prepare the closing schedules and working papers, coordinate timelines between your team and your independent auditor and record findings so next year’s audit starts faster.",
+  "whatWeDo": [
+    "Prepare closing schedules, reconciliations and working papers before fieldwork.",
+    "Track the auditor’s document request list to completion.",
+    "Draft responses to auditor queries with supporting documents.",
+    "Review balances, provisions and related-party disclosures before the audit.",
+    "Coordinate timelines between your team and your independent auditor.",
+    "Record findings so next year’s audit starts faster."
+  ],
+  "whoFor": [
+    "Companies with a statutory audit coming up.",
+    "Startups preparing for investor or lender scrutiny.",
+    "Businesses whose last audit ran late or generated many queries."
+  ],
+  "byPlan": {
+    "foundation": "Available as a project.",
+    "growth": "Included, with auditor query support.",
+    "cfo": "Included, with a pre-audit review of key balances."
+  },
+  "duration": "Audit readiness sprint: typically 2 to 4 weeks.",
+  "note": "Included in Growth and CFO. Also available as a one-time sprint. Statutory audit is performed by your own independent auditor.",
+  "faqs": [
+    {
+      "q": "Do you act as our auditor?",
+      "a": "No. Your statutory auditor is independent and appointed by you. We prepare everything they need and help you respond to queries."
+    },
+    {
+      "q": "When should we start?",
+      "a": "Ideally one to two months before fieldwork. The readiness sprint typically takes 2 to 4 weeks."
+    }
+  ],
+  "related": [
+    "internal-audit",
+    "financial-statements-ifrs",
+    "books-cleanup"
+  ],
+  "body": ""
+}

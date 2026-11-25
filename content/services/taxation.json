@@ -1,0 +1,54 @@
+{
+  "title": "Tax Compliance Services",
+  "navLabel": "Taxation",
+  "parent": "",
+  "order": 2,
+  "icon": "percent",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "GST, TDS and income tax in India; VAT and corporate tax in the UAE; VAT, Zakat and e-invoicing in Saudi Arabia.",
+  "metaTitle": "Tax Compliance Services: India, UAE and Saudi Arabia",
+  "metaDescription": "Tax compliance for businesses in India, the UAE and Saudi Arabia: GST, TDS, income tax, UAE VAT and corporate tax, KSA VAT, Zakat and ZATCA e-invoicing.",
+  "heroIntro": "Local tax compliance, done on time and reconciled to your books, in India, the UAE and Saudi Arabia.",
+  "overview": "Tax compliance works best when it is built into your monthly close rather than done in a rush before a deadline. Every client gets a compliance calendar for each registration they hold, reminders before every due date and a confirmation once the return is filed.\n\nFilings are scoped at onboarding to what applies to your registrations. In the Gulf, returns are submitted through your own portal accounts or a licensed tax agent where representation is required; we prepare, reconcile and walk you through approval.",
+  "whatWeDo": [
+    "Build a compliance calendar for every registration you hold.",
+    "Prepare returns and reconcile them to your ledgers.",
+    "Remind you before each due date and confirm once filed.",
+    "Track input tax credits, withholding and advance tax.",
+    "Run periodic tax health reviews on higher tiers.",
+    "Prepare data and draft responses for tax notices and queries."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Filings, reconciliation and an annual tax planning review.",
+    "growth": "Adds quarterly tax health reviews.",
+    "cfo": "Quarterly tax planning review and impact review on new products and contracts."
+  },
+  "duration": "",
+  "note": "Statutory audit and tax audit are performed by an independent auditor appointed by you. We prepare everything the auditor needs.",
+  "faqs": [
+    {
+      "q": "Which taxes do you handle?",
+      "a": "In India: GST, TDS and income tax. In the UAE: VAT and corporate tax. In Saudi Arabia: VAT, Zakat or income tax, withholding tax and ZATCA e-invoicing monitoring."
+    },
+    {
+      "q": "Do you file returns directly with the authorities?",
+      "a": "In India we prepare and file returns as applicable to your registrations. In the UAE and Saudi Arabia, returns are submitted through your own portal accounts or a licensed tax agent where representation is required."
+    },
+    {
+      "q": "What if I have no GST or TDS obligation?",
+      "a": "Filings are scoped at onboarding. If you do not have an obligation, you are not billed for it."
+    }
+  ],
+  "related": [
+    "accounting-bookkeeping",
+    "payroll",
+    "financial-reporting"
+  ],
+  "body": ""
+}

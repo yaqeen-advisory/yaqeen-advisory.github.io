@@ -1,0 +1,52 @@
+{
+  "title": "Accounts Catch-Up and Backlog Write-Up",
+  "navLabel": "Accounts catch-up",
+  "parent": "accounting-bookkeeping",
+  "order": 3,
+  "icon": "clock",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Write up months or years of missing books, rebuild bank reconciliations and prepare unfiled returns and statements.",
+  "metaTitle": "Accounts Catch-Up: Write Up Missing Books and Backlog",
+  "metaDescription": "Behind on your books? We write up months or years of missing accounts, rebuild reconciliations and prepare overdue returns and statements for a fixed fee.",
+  "heroIntro": "Months or years behind on your books? We write up the backlog, rebuild reconciliations and bring your records current and audit-ready.",
+  "overview": "Falling behind on bookkeeping is common, especially in fast-growing businesses. The risk is not just untidy records: late returns, missing credits and unanswered notices pile up. We write up the backlog in a structured way, starting with what the authorities and lenders need first.",
+  "whatWeDo": [
+    "Write up months or years of missing books.",
+    "Rebuild bank reconciliations from statements.",
+    "Prepare unfiled returns and statements.",
+    "Bring your records current and audit-ready."
+  ],
+  "whoFor": [
+    "Businesses with overdue GST, VAT or corporate tax returns.",
+    "Companies that need statements for a lender, investor or tax authority.",
+    "Owners who have lost track after a change of accountant."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 6 weeks.",
+  "note": "In the UAE and Saudi Arabia, backlog catch-up is often combined with a VAT health check, so exposure is quantified and corrections are prepared.",
+  "faqs": [
+    {
+      "q": "Can you prepare overdue returns too?",
+      "a": "Yes. We prepare the books first, then the overdue returns and statements. Fees, interest and penalties payable to authorities are paid by you at actuals."
+    },
+    {
+      "q": "What if I have no bank statements for some months?",
+      "a": "We work from what is available: portal downloads, bank requests and supplier statements. We flag what cannot be verified in the findings note."
+    }
+  ],
+  "related": [
+    "books-cleanup",
+    "gst-india",
+    "uae-vat"
+  ],
+  "body": ""
+}

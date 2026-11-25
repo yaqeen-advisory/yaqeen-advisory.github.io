@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "How We Work: Onboarding, Monthly Close and Review",
+    "description": "See how Yaqeen Advisory runs your finance function: one-week onboarding, books closed by the 7th, WhatsApp support, regular reviews and careful data handling."
+  },
+  "hero": {
+    "eyebrow": "How we work",
+    "heading": "A predictable rhythm, from week one.",
+    "text": "You always know what happens next, who owns it and when you will hear from us."
+  },
+  "rhythmHeading": "From onboarding to year-end",
+  "rhythmText": "The same five stages run for every client, in India and the GCC.",
+  "stages": [
+    {
+      "icon": "users",
+      "title": "Onboarding",
+      "when": "Week 1",
+      "items": [
+        "Kickoff call and goals",
+        "Data and access checklist",
+        "Bank feeds and software set up",
+        "Compliance calendar built",
+        "Client folder and WhatsApp group created"
+      ]
+    },
+    {
+      "icon": "calendar",
+      "title": "Monthly close",
+      "when": "By the 7th",
+      "items": [
+        "Bills and bank data collected",
+        "Books reconciled and reviewed",
+        "MIS built and checked",
+        "PDF and dashboard link sent on WhatsApp",
+        "Filings completed before due dates"
+      ]
+    },
+    {
+      "icon": "message",
+      "title": "Day to day",
+      "when": "Ongoing",
+      "items": [
+        "Upload bills in the WhatsApp group",
+        "Ask questions any time",
+        "Reply within your tier’s response time",
+        "Key decisions confirmed by email"
+      ]
+    },
+    {
+      "icon": "target",
+      "title": "Review",
+      "when": "Quarterly or monthly",
+      "items": [
+        "Walk through performance and risks",
+        "Cash and tax position",
+        "One clear action list with owners",
+        "Growth and CFO tiers"
+      ]
+    },
+    {
+      "icon": "file",
+      "title": "Year-end",
+      "when": "Annual",
+      "items": [
+        "Financial statements prepared",
+        "Income tax or corporate tax return filed",
+        "Audit readiness support",
+        "Plan for the year ahead"
+      ]
+    }
+  ],
+  "month": [
+    {
+      "label": "Days 1 to 3",
+      "text": "Bills and bank data collected"
+    },
+    {
+      "label": "Days 3 to 5",
+      "text": "Books reconciled and reviewed"
+    },
+    {
+      "label": "By day 7",
+      "text": "MIS delivered with commentary"
+    },
+    {
+      "label": "All month",
+      "text": "Filings completed ahead of due dates"
+    }
+  ],
+  "toolsHeading": "Modern tools. Careful handling.",
+  "toolsText": "A small, proven stack that your team can use from day one.",
+  "stack": [
+    {
+      "icon": "book",
+      "title": "Accounting",
+      "text": "Zoho Books or Tally Prime. We work in the system you already use."
+    },
+    {
+      "icon": "users",
+      "title": "Payroll",
+      "text": "Statutory payroll software for PF, ESI, WPS, GOSI, tax and payslips."
+    },
+    {
+      "icon": "file",
+      "title": "Documents",
+      "text": "Google Drive. One organised folder per client."
+    },
+    {
+      "icon": "message",
+      "title": "Daily communication",
+      "text": "WhatsApp Business. One group per client."
+    },
+    {
+      "icon": "chart",
+      "title": "Dashboards",
+      "text": "Looker Studio. A link that opens on any phone or laptop."
+    },
+    {
+      "icon": "trend",
+      "title": "Modelling",
+      "text": "Excel for forecasts, models and project deliverables."
+    }
+  ],
+  "protect": [
+    "Written confidentiality and data-protection terms in every engagement.",
+    "Role-based access. Each person sees only what their work needs.",
+    "Your data stays in accounts you own, so you can always take it with you.",
+    "AI is used on business-grade accounts with proper data terms, never on casual consumer tools.",
+    "A qualified accountant reviews every output before it reaches you.",
+    "Personal data such as employee records is handled in line with applicable data-protection law, including India’s Digital Personal Data Protection Act.",
+    "WhatsApp for conversation. Approvals and decisions are confirmed by email and saved in your client folder."
+  ],
+  "scopeHeading": "Clear scope. No surprises.",
+  "scopeText": "The principles that apply to every engagement.",
+  "scope": [
+    {
+      "icon": "check",
+      "title": "Scoped to what applies to you",
+      "text": "Filings are scoped at onboarding. If you have no GST or TDS obligation, you are not billed for them."
+    },
+    {
+      "icon": "shield",
+      "title": "Reserved work stays with licensed professionals",
+      "text": "Statutory audit, tax audit and any work legally reserved for a licensed practitioner is performed by your own appointed professional."
+    },
+    {
+      "icon": "users",
+      "title": "Your part",
+      "text": "Timely upload of documents, access to portals and approvals. Delays on your side can affect deadlines."
+    },
+    {
+      "icon": "wallet",
+      "title": "Government fees and penalties",
+      "text": "Fees, interest and penalties payable to authorities are paid by you at actuals."
+    },
+    {
+      "icon": "sliders",
+      "title": "Fair use",
+      "text": "Transaction volume and query limits for each plan are written into your engagement letter. Work beyond them is quoted separately."
+    },
+    {
+      "icon": "globe",
+      "title": "Accounting frameworks",
+      "text": "Indian GAAP is standard in India. Ind AS and IFRS are available as add-ons for clients who need them."
+    },
+    {
+      "icon": "clock",
+      "title": "Changes in law",
+      "text": "We update scope and thresholds when tax and compliance rules change, and tell you what it means for you."
+    },
+    {
+      "icon": "lock",
+      "title": "Confidentiality",
+      "text": "Your information is confidential. It is used only to deliver your engagement."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who will I work with?",
+      "a": "Every client has a named accountant and a WhatsApp group. A team covers when your accountant is away, and a qualified accountant reviews every deliverable."
+    },
+    {
+      "q": "Do I have to change my accounting software?",
+      "a": "No. We work in Zoho Books or Tally Prime, or the system you already own. If you have none, we help you select and set one up as a project."
+    },
+    {
+      "q": "How is AI used?",
+      "a": "AI helps categorise transactions, read bills, match bank lines and draft commentary. It is used on business-grade accounts with proper data terms, and a qualified accountant reviews the output before it reaches you."
+    }
+  ]
+}

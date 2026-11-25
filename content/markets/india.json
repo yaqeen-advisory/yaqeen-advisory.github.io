@@ -1,0 +1,75 @@
+{
+  "order": 1,
+  "title": "Accounting, Tax and Finance Services in India",
+  "navLabel": "India",
+  "eyebrow": "India",
+  "menuText": "GST, TDS, income tax, payroll, MIS and FP&A",
+  "summary": "GST, TDS, income tax, payroll, MIS and FP&A for Indian startups, SMEs and established companies.",
+  "metaTitle": "Accounting, GST and Tax Services for Businesses in India",
+  "metaDescription": "Outsourced accounting, GST, TDS, income tax, payroll, MIS and FP&A for Indian startups, SMEs and established companies. Books closed by the 7th.",
+  "heroHeading": "Accounting, tax and finance support for businesses in India.",
+  "heroIntro": "Books closed by the 7th, GST, TDS and income tax filed on time, payroll that is right every month and a one-page MIS you can read. For startups, SMEs and established companies.",
+  "pills": [
+    "GST",
+    "TDS",
+    "Income tax",
+    "PF and ESI",
+    "Indian GAAP",
+    "Ind AS"
+  ],
+  "overview": "India is where we are based, and where every service pack started. Indian businesses juggle GST, TDS, advance tax, PF, ESI and professional tax on different calendars, often across several states. We bring those into one compliance calendar tied to reconciled books, so nothing slips and nothing is a surprise.\n\nWe work in Zoho Books or Tally Prime, or the system you already use, with a named accountant and a WhatsApp group for day-to-day questions.",
+  "howHeading": "What you get in India",
+  "howWeServe": [
+    "Full bookkeeping under Indian GAAP with month-end close by the 7th.",
+    "GST returns, reconciliation and input credit tracking for each registration.",
+    "TDS deduction, payment and quarterly returns, with Form 26AS and AIS reconciliation.",
+    "Advance tax each quarter and the annual income tax return for the entity.",
+    "Payroll with PF, ESI, professional tax and Form 16.",
+    "Ind AS or IFRS statements as add-ons, and audit readiness for your independent auditor."
+  ],
+  "highlightsHeading": "Indian compliance, built into the month",
+  "highlights": [
+    {
+      "title": "One compliance calendar",
+      "text": "Every registration you hold, with reminders before each due date and a confirmation once it is filed."
+    },
+    {
+      "title": "Reconciled before filing",
+      "text": "Returns are prepared from reconciled books, and GST purchases are matched with GSTR-2B."
+    },
+    {
+      "title": "Audit-ready year-end",
+      "text": "Closing schedules and working papers prepared before your independent auditor arrives."
+    },
+    {
+      "title": "Grow into the Gulf",
+      "text": "If you expand to the UAE or Saudi Arabia, the same team and the same monthly rhythm go with you."
+    }
+  ],
+  "services": [
+    "accounting-bookkeeping",
+    "gst-india",
+    "tds-income-tax-india",
+    "payroll-india",
+    "mis-dashboards",
+    "financial-statements-ifrs",
+    "fpa-cfo-advisory",
+    "audit-readiness",
+    "books-cleanup"
+  ],
+  "note": "Statutory audit and tax audit are carried out by an independent Chartered Accountant appointed by you. We prepare everything they need.",
+  "faqs": [
+    {
+      "q": "Which Indian taxes do you handle?",
+      "a": "GST, TDS and income tax for the entity, plus payroll contributions such as PF, ESI and professional tax. Filings are scoped at onboarding to what applies to your registrations."
+    },
+    {
+      "q": "Do you work with startups?",
+      "a": "Yes. Many clients start with a books clean-up or the Foundation plan and move to Growth or CFO as they hire, raise or expand. See our startup page for what that looks like."
+    },
+    {
+      "q": "Can you work in the accounting software we already use?",
+      "a": "Yes. We work in Zoho Books or Tally Prime, and in the system you already own."
+    }
+  ]
+}

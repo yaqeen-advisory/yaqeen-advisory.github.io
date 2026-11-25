@@ -1,0 +1,47 @@
+{
+  "title": "Custom Dashboard and Reporting Build",
+  "navLabel": "Dashboard and reporting build",
+  "parent": "finance-automation",
+  "order": 3,
+  "icon": "chart",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "project",
+  "summary": "Custom dashboards on live accounting data, with report templates for management, lenders and boards.",
+  "metaTitle": "Custom Finance Dashboard and Reporting Build",
+  "metaDescription": "Custom finance dashboards on live accounting data with report templates for management, lenders and boards, agreed metric definitions and team training.",
+  "heroIntro": "Dashboards your team trusts: built on live accounting data, with metric definitions agreed up front.",
+  "overview": "A dashboard is only as good as its definitions. We agree what each metric means with your team, build the dashboard on your live accounting data, create report templates for management, lenders and boards, and train your people to use it.",
+  "whatWeDo": [
+    "Custom dashboards on live accounting data.",
+    "Report templates for management, lenders and boards.",
+    "Metric definitions agreed with your team.",
+    "Handover and training."
+  ],
+  "whoFor": [
+    "Businesses that want more than the standard MIS dashboard.",
+    "Teams with several data sources to combine."
+  ],
+  "byPlan": {
+    "foundation": "",
+    "growth": "",
+    "cfo": ""
+  },
+  "duration": "Typically 2 to 4 weeks.",
+  "note": "",
+  "faqs": [
+    {
+      "q": "What tool are dashboards built in?",
+      "a": "Looker Studio by default, so a link opens on any phone or laptop."
+    }
+  ],
+  "related": [
+    "mis-dashboards",
+    "workflow-automation",
+    "financial-modelling"
+  ],
+  "body": ""
+}

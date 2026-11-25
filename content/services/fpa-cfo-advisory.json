@@ -1,0 +1,54 @@
+{
+  "title": "FP&A and CFO Advisory Services",
+  "navLabel": "FP&A and CFO advisory",
+  "parent": "",
+  "order": 5,
+  "icon": "trend",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Budgets, rolling forecasts, scenarios, cash planning and lender and investor packs, without a full-time CFO.",
+  "metaTitle": "FP&A and Virtual CFO Services for Growing Businesses",
+  "metaDescription": "Outsourced FP&A and CFO advisory: annual budgets, rolling forecasts, scenario modelling, 13-week cash forecasts and lender and investor reporting.",
+  "heroIntro": "Planning and decision support: a finance partner in the room when decisions get made, without the cost of a full-time CFO.",
+  "overview": "Financial planning and analysis connects your actual numbers to the decisions ahead: hiring, pricing, expansion, funding. We build budgets and forecasts from your books, model the scenarios that matter and hold a regular review so the plan stays alive.",
+  "whatWeDo": [
+    "Build annual budgets and rolling forecasts tied to your actual numbers.",
+    "Model scenarios such as pricing changes, new hires, expansion and loan repayment.",
+    "Run unit economics and margin analysis by product, service or location.",
+    "Forecast cash over 13 weeks and plan working capital.",
+    "Prepare lender and investor reporting packs.",
+    "Hold a monthly review call with a decision list and owners."
+  ],
+  "whoFor": [
+    "Businesses planning a raise, an expansion or a bank facility.",
+    "Founders who want a finance partner without a full-time CFO.",
+    "Growing teams where lenders and investors are asking questions."
+  ],
+  "byPlan": {
+    "foundation": "Available as a project.",
+    "growth": "Budget vs actual in the MIS and a 13-week forecast.",
+    "cfo": "Full FP&A with rolling forecasts and scenarios."
+  },
+  "duration": "",
+  "note": "",
+  "faqs": [
+    {
+      "q": "Do I need the CFO plan for FP&A?",
+      "a": "Full FP&A with rolling forecasts and scenarios is part of the CFO tier. Growth includes budget vs actual and a 13-week cash forecast, and Foundation clients can buy FP&A work as a project."
+    },
+    {
+      "q": "Is a monthly review call included?",
+      "a": "Yes on the CFO tier (monthly) and Growth tier (quarterly), with a decision list and owners."
+    }
+  ],
+  "related": [
+    "mis-dashboards",
+    "financial-reporting",
+    "audit-support"
+  ],
+  "body": ""
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Payroll Services for India and the GCC",
+  "navLabel": "Payroll",
+  "parent": "",
+  "order": 3,
+  "icon": "users",
+  "markets": [
+    "india",
+    "uae",
+    "saudi-arabia"
+  ],
+  "kind": "subscription",
+  "summary": "Monthly payroll with statutory compliance: PF, ESI and Form 16 in India; WPS, gratuity and GOSI in the Gulf.",
+  "metaTitle": "Payroll Services in India, UAE and Saudi Arabia",
+  "metaDescription": "Outsourced payroll with statutory compliance: PF, ESI, professional tax and Form 16 in India; WPS and gratuity in the UAE; WPS and GOSI in Saudi Arabia.",
+  "heroIntro": "Monthly payroll, statutory compliance and records, run to the local rules in India, the UAE and Saudi Arabia.",
+  "overview": "Payroll mistakes are personal: people notice immediately when a payslip is wrong. We run monthly payroll to the local rules, file the statutory contributions and keep registers ready for reviews. Payslips go out by email or WhatsApp.\n\nEvery plan includes payroll up to a limit: 10 employees on Foundation, 25 on Growth and 50 on CFO. Extra employees are charged per head, so you never need to change plans just for payroll.",
+  "whatWeDo": [
+    "Run monthly payroll: attendance, leave, earnings, deductions and net pay.",
+    "File statutory contributions and deductions for your country.",
+    "Issue payslips by email or WhatsApp.",
+    "Handle joiners, exits and full and final settlements.",
+    "Maintain payroll registers and statutory records."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Up to 10 employees.",
+    "growth": "Up to 25 employees.",
+    "cfo": "Up to 50 employees. More employees are priced per head."
+  },
+  "duration": "",
+  "note": "",
+  "faqs": [
+    {
+      "q": "What if I have more employees than my plan includes?",
+      "a": "Extra employees are charged per head per month as an add-on module. You do not need to change tier just to run payroll."
+    },
+    {
+      "q": "How do employees receive payslips?",
+      "a": "By email or WhatsApp, as you prefer."
+    }
+  ],
+  "related": [
+    "accounting-bookkeeping",
+    "taxation"
+  ],
+  "body": ""
+}

@@ -1,0 +1,56 @@
+{
+  "title": "UAE VAT Return and Compliance Services",
+  "navLabel": "UAE VAT",
+  "parent": "taxation",
+  "order": 3,
+  "icon": "receipt",
+  "markets": [
+    "uae"
+  ],
+  "kind": "subscription",
+  "summary": "VAT returns, reconciliation, input tax recovery, reverse charge, registration support and FTA query preparation.",
+  "metaTitle": "UAE VAT Services: Returns, Reconciliation and Support",
+  "metaDescription": "UAE VAT compliance for mainland and free zone businesses: return preparation, input tax recovery, reverse charge, registration support and FTA query data.",
+  "heroIntro": "Periodic VAT compliance, done right: returns prepared from reconciled books, with the tax treatment of each supply reviewed.",
+  "overview": "VAT in the UAE is simple in principle and unforgiving in detail. Returns have to reconcile to the ledger, tax invoices have to carry the right fields, and the treatment of standard-rated, zero-rated, exempt and out-of-scope supplies has to be right. We build that review into your monthly close.\n\nReturns are submitted through your own portal account or a licensed tax agent. We prepare, reconcile and walk you through approval.",
+  "whatWeDo": [
+    "Prepare and reconcile each VAT return, with tax invoice and credit note checks.",
+    "Review the treatment of standard-rated, zero-rated, exempt and out-of-scope supplies.",
+    "Track input tax recovery and flag blocked or doubtful claims.",
+    "Handle reverse charge and import VAT.",
+    "Support VAT registration, amendments and deregistration.",
+    "Prepare data for FTA queries and voluntary disclosures."
+  ],
+  "whoFor": [
+    "Mainland and free zone businesses registered for UAE VAT.",
+    "Companies that need returns reconciled to the ledger, not estimated.",
+    "Founders unsure about registration thresholds and treatment of cross-border supplies."
+  ],
+  "byPlan": {
+    "foundation": "Returns and reconciliation.",
+    "growth": "Adds a quarterly VAT health review.",
+    "cfo": "Adds VAT review on new contracts and structures."
+  },
+  "duration": "",
+  "note": "Everything is prepared from books kept to an IFRS-aligned standard, so your numbers support tax, banking and audit.",
+  "faqs": [
+    {
+      "q": "What is the VAT rate in the UAE?",
+      "a": "The standard rate of UAE VAT is 5%. Some supplies are zero-rated or exempt. We review the treatment of each supply type as part of your return preparation."
+    },
+    {
+      "q": "Do you submit the return to the FTA?",
+      "a": "Returns are submitted through your own FTA portal account, or through a licensed tax agent where representation is required. We prepare, reconcile and walk you through approval."
+    },
+    {
+      "q": "Can you help with a VAT health check?",
+      "a": "Yes. A VAT health check and clean-up project reviews past returns, reconciles them to the ledger, quantifies exposure and prepares corrections. It typically takes 2 to 4 weeks."
+    }
+  ],
+  "related": [
+    "uae-corporate-tax",
+    "payroll-uae-wps",
+    "accounting-bookkeeping"
+  ],
+  "body": ""
+}

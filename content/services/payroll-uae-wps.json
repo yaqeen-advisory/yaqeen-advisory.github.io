@@ -1,0 +1,48 @@
+{
+  "title": "UAE Payroll and WPS Services",
+  "navLabel": "Payroll and WPS (UAE)",
+  "parent": "payroll",
+  "order": 2,
+  "icon": "users",
+  "markets": [
+    "uae"
+  ],
+  "kind": "subscription",
+  "summary": "Monthly payroll with WPS salary files, payslips, gratuity calculation and labour compliance records.",
+  "metaTitle": "UAE Payroll and WPS Services: Salary Files and Gratuity",
+  "metaDescription": "UAE payroll outsourcing: monthly processing, WPS salary files for your bank or exchange house, end-of-service gratuity, leave encashment and payslips.",
+  "heroIntro": "Monthly payroll with compliant salary files, correct gratuity and clean records for labour compliance reviews.",
+  "overview": "UAE payroll depends on getting the Wage Protection System (WPS) file right every month and calculating end-of-service gratuity and leave correctly when people leave. We handle both, and keep payroll records ready for labour compliance reviews.",
+  "whatWeDo": [
+    "Run monthly payroll with allowances, deductions and overtime.",
+    "Generate WPS salary files for your bank or exchange house.",
+    "Calculate end-of-service gratuity and leave encashment.",
+    "Prepare payslips and payroll registers.",
+    "Handle joiners, exits and final settlements.",
+    "Maintain records for labour compliance reviews."
+  ],
+  "whoFor": [],
+  "byPlan": {
+    "foundation": "Up to 10 employees.",
+    "growth": "Up to 25 employees.",
+    "cfo": "Up to 50 employees. More are priced per head."
+  },
+  "duration": "",
+  "note": "Payroll is reported in AED, with INR views available if you also operate in India.",
+  "faqs": [
+    {
+      "q": "What is WPS?",
+      "a": "The Wage Protection System is the electronic system through which UAE employers pay salaries via approved banks or exchange houses. We generate the salary file for your bank or exchange house each month."
+    },
+    {
+      "q": "Do you calculate end-of-service gratuity?",
+      "a": "Yes, for leavers, as part of the final settlement, along with leave encashment."
+    }
+  ],
+  "related": [
+    "uae-vat",
+    "uae-corporate-tax",
+    "payroll"
+  ],
+  "body": ""
+}
