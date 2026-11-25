@@ -1,0 +1,313 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Yaqeen Advisory website: start here</title>
+<style>body{font:17px/1.65 Inter,system-ui,Segoe UI,Arial,sans-serif;color:#0F3D3E;background:#F6F3EC;margin:0}main{max-width:820px;margin:0 auto;padding:40px 24px 80px}h1{font-size:2.2rem;letter-spacing:-.03em}h2{margin-top:2.2em;padding-top:.6em;border-top:2px solid #B98B3E;font-size:1.6rem}h3{margin-top:1.6em}a{color:#0F3D3E}code{background:#E3ECEA;padding:1px 6px;border-radius:6px;font-size:.9em}table{border-collapse:collapse;width:100%;font-size:.93rem;margin:1em 0;display:block;overflow-x:auto}td,th{border:1px solid #E4DED0;padding:8px 12px;text-align:left;vertical-align:top;background:#fff}th{background:#E3ECEA}blockquote{border-left:5px solid #B98B3E;background:#EEDFBE;margin:1em 0;padding:4px 18px;border-radius:0 10px 10px 0}hr{border:0;border-top:1px solid #E4DED0;margin:2em 0}li{margin:.3em 0}</style></head><body><main><h1>Yaqeen Advisory website: start here</h1>
+<p>This guide takes you from "a folder of files" to "a live website on your own domain that you can edit like a document". Nothing here needs coding. Every step says exactly what to click. If a screen looks different from what is described (these services change their buttons now and then), tell me what you see and I will adjust the steps.</p>
+<p><strong>Time needed:</strong> about 2 to 3 hours for the first launch, plus waiting time for the domain to connect.
+<strong>Running cost:</strong> your domain name (about the price of a lunch per month or less; check the current price when you buy) and a business email. Everything else in this guide is free.</p>
+<hr />
+<h2>0. What you have</h2>
+<ul>
+<li><strong>A complete website of 59 pages:</strong> home, 7 main services and 26 specific services (each on its own page), India, UAE, Saudi Arabia and GCC pages, 5 "who we serve" pages, plans, how we work, partner programme, about, contact, 4 starter articles, privacy policy, terms, sitemap and a 404 page.</li>
+<li><strong>Your brand:</strong> colours, logo and typography come from your logo kit (teal, brass, paper, Inter). The same tokens can be reused for proposals, reports and decks. The original logo files are in the <code>brand-kit</code> folder.</li>
+<li><strong>Search engine setup built in:</strong> a unique title and description on every page, clean web addresses, a sitemap, structured data (so Google understands you are an accounting firm serving India, the UAE and Saudi Arabia), breadcrumbs, FAQ markup and fast loading.</li>
+<li><strong>An editing screen</strong> (Pages CMS) where you change text, add a service, publish an article or update contact details by filling in forms. No code.</li>
+</ul>
+<h3>How it works, in plain words</h3>
+<p>Your website's content lives in a folder on <strong>GitHub</strong> (a free online storage service for files). Every time you save a change in the editing screen, GitHub automatically rebuilds the website and publishes it, usually within 2 to 3 minutes. You never touch the build.</p>
+<h3>The web address plan (already built)</h3>
+<table>
+<thead>
+<tr>
+<th>Page</th>
+<th>Address</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Home</td>
+<td><code>/</code></td>
+</tr>
+<tr>
+<td>All services</td>
+<td><code>/services/</code></td>
+</tr>
+<tr>
+<td>One service</td>
+<td><code>/services/gst-india/</code>, <code>/services/uae-vat/</code>, <code>/services/payroll-india/</code> and so on</td>
+</tr>
+<tr>
+<td>Markets</td>
+<td><code>/india/</code>, <code>/uae/</code>, <code>/saudi-arabia/</code>, <code>/gcc/</code></td>
+</tr>
+<tr>
+<td>Who we serve</td>
+<td><code>/solutions/startups/</code>, <code>/solutions/smes/</code> and so on</td>
+</tr>
+<tr>
+<td>Plans</td>
+<td><code>/plans/</code></td>
+</tr>
+<tr>
+<td>Articles</td>
+<td><code>/insights/article-name/</code></td>
+</tr>
+</tbody>
+</table>
+<p>Every service can be reached in <strong>one click</strong> from the homepage (the Services menu lists all of them, and the homepage also lists them) and in two clicks from the Services page.</p>
+<hr />
+<h2>1. Decisions to make before you start (15 minutes)</h2>
+<ol>
+<li><strong>Your domain name.</strong> I used <code>yaqeenadvisory.com</code> as a placeholder. Check which names are free at the registrar you choose in step 2. If <code>.com</code> is taken, consider <code>yaqeenadvisory.in</code> (good for India) and also buy <code>.ae</code> or <code>.sa</code> later only if you set up in those countries.</li>
+<li><strong>Your business email</strong>, for example <code>hello@yourdomain.com</code>. Using a free Gmail address on a firm's website looks less credible to GCC and corporate clients.</li>
+<li><strong>Your contact details to show publicly:</strong> email, phone, WhatsApp number. Leave any of them empty and it simply will not appear.</li>
+<li><strong>Your office address.</strong> I put only "Kozhikode, Kerala, India" (city level) as a placeholder. Change it if that is not right.</li>
+</ol>
+<hr />
+<h2>2. Buy your domain (20 minutes)</h2>
+<ol>
+<li>Pick a registrar. Cloudflare Registrar, Namecheap and GoDaddy all work. (Registrars where you also get email hosting or easy DNS editing make later steps simpler.)</li>
+<li>Search for your name, add it to the cart and pay. Turn on <strong>auto-renew</strong> and <strong>domain privacy</strong> if offered.</li>
+<li>Use an email address you will always have access to for the account, and save the login somewhere safe. If you lose access to the registrar, you lose the domain.</li>
+</ol>
+<p>You will come back to the registrar's <strong>DNS settings</strong> in step 8.</p>
+<hr />
+<h2>3. Set up business email (30 minutes)</h2>
+<p>Easiest path: <strong>Google Workspace</strong> (paid, most professional) or <strong>Zoho Mail</strong> (has a free tier for a small team). Both walk you through verifying your domain and creating <code>hello@yourdomain.com</code>. Follow their on-screen setup. When you are done, send a test email to yourself.</p>
+<hr />
+<h2>4. Create your GitHub account and put the website there (45 minutes)</h2>
+<h3>4a. Make the account</h3>
+<ol>
+<li>Go to <strong>github.com</strong> and click <strong>Sign up</strong>.</li>
+<li>Choose a username. Using your brand is best, for example <code>yaqeenadvisory</code>. (Your first test address will be <code>https://yaqeenadvisory.github.io</code>.)</li>
+<li>Verify your email and turn on two-factor sign-in when it asks.</li>
+</ol>
+<h3>4b. Install GitHub Desktop (a free app that uploads files for you)</h3>
+<ol>
+<li>Go to <strong>desktop.github.com</strong>, download the app for your computer (Windows or Mac) and install it.</li>
+<li>Open it and click <strong>Sign in to GitHub.com</strong>. Approve in the browser.</li>
+</ol>
+<h3>4c. Create the project</h3>
+<ol>
+<li>In GitHub Desktop choose <strong>File, then New repository</strong>.</li>
+<li><strong>Name:</strong> type exactly <code>yourusername.github.io</code>, for example <code>yaqeenadvisory.github.io</code>. (This exact pattern is what lets your website show up at the first test address.)</li>
+<li><strong>Local path:</strong> leave the default. Remember where it is shown, for example <code>Documents/GitHub</code>. Leave the other boxes alone and click <strong>Create repository</strong>.</li>
+</ol>
+<h3>4d. Copy the website files in</h3>
+<ol>
+<li>Unzip the <code>yaqeen-advisory-website.zip</code> I gave you.</li>
+<li>Open the folder created in step 4c on your computer (in GitHub Desktop: <strong>Repository, then Show in Explorer</strong> on Windows or <strong>Show in Finder</strong> on Mac).</li>
+<li>Copy <strong>everything inside</strong> the unzipped website folder into that folder. You should end up with <code>build.mjs</code>, <code>content</code>, <code>static</code> and so on directly inside it.</li>
+<li><strong>Important:</strong> two items begin with a dot: <code>.pages.yml</code> and the <code>.github</code> folder. They are hidden by default.
+   - <strong>Windows:</strong> in File Explorer click <strong>View, then Show, then Hidden items</strong>.
+   - <strong>Mac:</strong> in Finder press <strong>Command + Shift + Period</strong>.
+   - Make sure both were copied. Without them the website will not publish and the editing screen will not work.</li>
+</ol>
+<h3>4e. Upload (publish)</h3>
+<ol>
+<li>Back in GitHub Desktop you will see a long list of changed files on the left. In the box at the bottom left, type <code>First version of website</code> and click <strong>Commit to main</strong>.</li>
+<li>Click <strong>Publish repository</strong> (top bar). <strong>Untick "Keep this code private"</strong>. Free hosting needs a public repository. This is fine: the content is your public website text. Do not put anything confidential in the folder.</li>
+<li>Click <strong>Publish repository</strong>.</li>
+</ol>
+<hr />
+<h2>5. Turn on hosting (10 minutes)</h2>
+<ol>
+<li>In your browser open <code>https://github.com/yourusername/yourusername.github.io</code>.</li>
+<li>Click <strong>Settings</strong> (top row of the repository), then <strong>Pages</strong> in the left list.</li>
+<li>Under <strong>Build and deployment</strong>, set <strong>Source</strong> to <strong>GitHub Actions</strong>.</li>
+<li>Click the <strong>Actions</strong> tab at the top. You should see a run called <strong>Publish website</strong>. Wait until it shows a green tick (about 2 minutes). If it shows a red cross, or nothing ran, click <strong>Publish website</strong> on the left, then <strong>Run workflow</strong>, then the green <strong>Run workflow</strong> button.</li>
+<li>Open <code>https://yourusername.github.io</code>. Your website is live on a test address.</li>
+</ol>
+<blockquote>
+<p>The first time, the website will show the placeholder domain <code>yaqeenadvisory.com</code> inside its code (for search engines). That is expected, and step 8 sets the real one.</p>
+</blockquote>
+<hr />
+<h2>6. Open the editing screen (15 minutes)</h2>
+<ol>
+<li>Go to <strong>app.pagescms.org</strong> and click <strong>Sign in with GitHub</strong>.</li>
+<li>When asked, allow access and <strong>install the app on your repository</strong> (choose "Only select repositories" and pick <code>yourusername.github.io</code>).</li>
+<li>Select your repository. You will see a left menu: <strong>Services, Insights, Markets, Who we serve, Homepage, Plans page, How we work, About us, Partner programme, Contact page, Site settings, Top menu</strong>.</li>
+<li>Click any item to edit it. Press <strong>Save</strong>. Wait 2 to 3 minutes and refresh your website to see it.</li>
+</ol>
+<blockquote>
+<p><strong>Honest note:</strong> I could not log in to Pages CMS from where I built this, so the editing screen layout (file <code>.pages.yml</code>) was prepared from its documentation but not tested live. If a screen shows an error or a field looks wrong, send me a screenshot and I will fix the file. Fallback that always works: on github.com open the file, click the pencil icon and edit the text between quotation marks.</p>
+</blockquote>
+<hr />
+<h2>7. Fill in your real details (20 minutes)</h2>
+<p>In the editing screen open <strong>Site settings</strong> and set:</p>
+<ul>
+<li><strong>Website address:</strong> <code>https://www.yourdomain.com</code> (include <code>https://</code>, no slash at the end). Use this exactly once you complete step 8. Search engines use it.</li>
+<li><strong>Email address</strong>, <strong>Phone</strong>, <strong>WhatsApp</strong> (country code and digits only, for example <code>919XXXXXXXXX</code>), <strong>Address</strong>, <strong>Social links</strong>.</li>
+<li>Leave <strong>Google Analytics ID</strong> and the <strong>Search Console code</strong> empty for now.</li>
+</ul>
+<h3>Make the contact form work</h3>
+<p>Until you do this, the form opens the visitor's email app instead. That works, but a real form is better.</p>
+<ol>
+<li>Go to <strong>formspree.io</strong> and create a free account.</li>
+<li>Click <strong>New form</strong>, name it <code>Yaqeen website</code>, and set it to email you at your business email.</li>
+<li>Copy the <strong>form address</strong> it shows. It looks like <code>https://formspree.io/f/abcdwxyz</code>.</li>
+<li>In <strong>Site settings</strong> paste it in <strong>Contact form address</strong> and save.</li>
+<li>After the site updates, send a test message from your website's Contact page. Confirm the email arrives (check spam the first time and confirm the Formspree verification email).</li>
+</ol>
+<hr />
+<h2>8. Connect your own domain (20 minutes of work, then wait)</h2>
+<ol>
+<li>At your registrar open <strong>DNS settings</strong> for your domain.</li>
+<li>Add these records (delete any existing "parking page" records first):</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Name / Host</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td><code>@</code></td>
+<td><code>185.199.108.153</code></td>
+</tr>
+<tr>
+<td>A</td>
+<td><code>@</code></td>
+<td><code>185.199.109.153</code></td>
+</tr>
+<tr>
+<td>A</td>
+<td><code>@</code></td>
+<td><code>185.199.110.153</code></td>
+</tr>
+<tr>
+<td>A</td>
+<td><code>@</code></td>
+<td><code>185.199.111.153</code></td>
+</tr>
+<tr>
+<td>CNAME</td>
+<td><code>www</code></td>
+<td><code>yourusername.github.io</code></td>
+</tr>
+</tbody>
+</table>
+<ol start="3">
+<li>In GitHub go to your repository, <strong>Settings, then Pages</strong>. Under <strong>Custom domain</strong> type <code>www.yourdomain.com</code> and click <strong>Save</strong>.</li>
+<li>Wait. DNS can take from a few minutes to a day. When GitHub shows a green tick, tick <strong>Enforce HTTPS</strong>.</li>
+<li>Visit <code>https://www.yourdomain.com</code>. Also test <code>https://yourdomain.com</code>; it should redirect to the <code>www</code> version.</li>
+<li>Make sure <strong>Site settings, Website address</strong> is exactly <code>https://www.yourdomain.com</code>.</li>
+</ol>
+<p>(If GitHub's page shows different DNS instructions from the table above, follow GitHub's. They publish the current ones on the same Pages screen.)</p>
+<hr />
+<h2>9. Get found on Google and Bing (30 minutes)</h2>
+<ol>
+<li><strong>Google Search Console</strong> (search.google.com/search-console): click <strong>Add property</strong>, choose <strong>Domain</strong>, enter your domain and follow the instruction to add a <strong>TXT record</strong> at your registrar (same DNS screen as step 8). Click <strong>Verify</strong>.</li>
+<li>In Search Console open <strong>Sitemaps</strong> and submit <code>sitemap.xml</code>. It lists all 59 pages.</li>
+<li>Use <strong>URL inspection</strong> to request indexing for the homepage and your top service pages. Google typically takes days to a few weeks to list a brand-new site.</li>
+<li><strong>Bing Webmaster Tools</strong> (bing.com/webmasters): sign in and choose <strong>Import from Google Search Console</strong>. This also helps with other search tools.</li>
+<li><strong>Google Business Profile</strong> (business.google.com): optional, useful for local searches in Kozhikode. Google asks for a real address and verification, so only do this if you have an office clients can visit or you want to appear as a service-area business.</li>
+<li><strong>LinkedIn company page:</strong> create one, then add the link in <strong>Site settings, Social links</strong>.</li>
+<li>Optional: <strong>Google Analytics</strong> (analytics.google.com). Create a property, copy the <strong>Measurement ID</strong> (starts with <code>G-</code>) into <strong>Site settings, Google Analytics ID</strong>.</li>
+</ol>
+<h3>What search engines already get from the site</h3>
+<ul>
+<li>One page per service, each with its own address, title, description and FAQ answers.</li>
+<li>Market pages for <strong>India, UAE, Saudi Arabia and the GCC</strong>, so people searching "VAT services UAE" or "GST return filing India" can land on the right page.</li>
+<li>Service structured data naming the countries you serve.</li>
+</ul>
+<h3>What only you can do to rank well</h3>
+<ul>
+<li><strong>Publish helpful articles</strong> (see recipes below). Two a month is plenty.</li>
+<li><strong>Get real links:</strong> LinkedIn page, client and partner websites, professional directories, guest articles.</li>
+<li><strong>Collect genuine client reviews</strong> and add them to the site only when they are real and approved.</li>
+<li><strong>Keep facts current.</strong> Tax rules change. Review pages quarterly.</li>
+</ul>
+<hr />
+<h2>10. Everyday editing recipes</h2>
+<p>All of these are done in the editing screen (app.pagescms.org). After each <strong>Save</strong>, the website updates in 2 to 3 minutes.</p>
+<h3>Change a sentence anywhere</h3>
+<p>Open the section (for example <strong>Homepage</strong>), find the field, edit and save.</p>
+<h3>Add a new service</h3>
+<ol>
+<li><strong>Services, then Add</strong>.</li>
+<li>Fill: <strong>Page heading</strong>, <strong>Short name</strong> (for menus), <strong>Belongs to</strong> (pick the main service, or leave blank for a new main service), <strong>Order</strong>, <strong>Icon</strong>, <strong>Markets</strong>, <strong>How it is delivered</strong>, <strong>Short summary</strong>, <strong>Search title</strong> and <strong>Search description</strong>, <strong>What we do</strong> and a few <strong>FAQs</strong>.</li>
+<li>Save. It appears by itself in the menu, the Services page, the homepage list, its parent's page and the sitemap.</li>
+<li><strong>Search title tip:</strong> about 55 to 60 characters, with the service and place in it, for example "UAE VAT Services: Returns, Reconciliation and Support".</li>
+<li>To show it on a market page, edit that page (for example <strong>Markets, India</strong>) and add the service under <strong>Services to show</strong>.</li>
+</ol>
+<h3>Remove or hide a service</h3>
+<p>Open the service and delete it. If another page still links to it (for example a link inside "Who we serve"), the website will refuse to publish and show a red cross in GitHub's <strong>Actions</strong> tab, instead of publishing a broken link. Remove the old link and save again.</p>
+<h3>Publish an article</h3>
+<p><strong>Insights, then Add.</strong> Fill the title, date, category, a one-paragraph summary and the article body. Tick <strong>Hide this article</strong> to keep it as a draft.</p>
+<h3>Change the plan tables or add-ons</h3>
+<p><strong>Plans page.</strong> Open <strong>India table</strong> or <strong>UAE and Saudi table</strong>, then the group and the row. In cells type <code>yes</code>, <code>no</code>, or any text such as <code>Quarterly</code>.</p>
+<h3>Add team members</h3>
+<p><strong>About us, then Team, then add a person.</strong> The Team section appears on the About page once there is at least one person, and stays hidden while empty. Upload a photo with the image button.</p>
+<h3>Add an image</h3>
+<p>Use the image field in the editing screen. Uploaded images go into <code>static/assets/uploads</code> automatically.</p>
+<h3>Change colours or fonts</h3>
+<p>Brand colours are deliberately fixed so that everything stays on-brand. If you ever need a change, ask me.</p>
+<hr />
+<h2>11. Before you announce the website: checklist</h2>
+<ul>
+<li>[ ] Your real email, phone or WhatsApp and address are in <strong>Site settings</strong>.</li>
+<li>[ ] The contact form test email arrived.</li>
+<li>[ ] <strong>Have the content reviewed by a qualified professional</strong>, especially tax rates, thresholds and statements about UAE and Saudi rules (VAT 5% in the UAE and 15% in Saudi Arabia, UAE corporate tax at 9% above AED 375,000, ZATCA e-invoicing phases). I wrote these from general knowledge and your service catalogue; rules change.</li>
+<li>[ ] <strong>Privacy policy and Terms are drafts.</strong> Have a lawyer review them for India and the GCC.</li>
+<li>[ ] Confirm the claims match what you can deliver on day one: "books closed by the 7th", response times in each tier, "named accountant", "WhatsApp group", the tools list (Zoho Books, Tally Prime, Looker Studio, etc.).</li>
+<li>[ ] Confirm your professional status wording. The site says you do not perform statutory or tax audit and that reserved work stays with licensed professionals. Align with your ACCA and any registrations.</li>
+<li>[ ] No team, client logos, testimonials or numbers are shown, because I have none from you. Add them only when they are real.</li>
+<li>[ ] Open the site on your phone and on a laptop. Click through the menu, the Plans page tabs and the contact form.</li>
+<li>[ ] The logo kit guidelines mention a trademark check. Do it before heavy marketing.</li>
+<li>[ ] Search Console verified, sitemap submitted.</li>
+</ul>
+<hr />
+<h2>12. If something goes wrong</h2>
+<table>
+<thead>
+<tr>
+<th>What you see</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I saved but nothing changed</td>
+<td>Wait 3 minutes, then hard refresh (Ctrl+F5, or Cmd+Shift+R). Then open the <strong>Actions</strong> tab on GitHub. A green tick means published.</td>
+</tr>
+<tr>
+<td>Red cross in Actions</td>
+<td>Click it, then the failed step. The message tells which page has a problem (usually a link to a removed page). Fix it and save again, or send me the message.</td>
+</tr>
+<tr>
+<td><code>Run workflow</code> never ran</td>
+<td>Settings, Pages, Source must be <strong>GitHub Actions</strong>. Then Actions, <strong>Publish website</strong>, <strong>Run workflow</strong>.</td>
+</tr>
+<tr>
+<td>Custom domain not working</td>
+<td>DNS can take up to a day. Re-check the five records. Remove any older "A" or "CNAME" records that conflict.</td>
+</tr>
+<tr>
+<td>"Not secure" warning</td>
+<td>In Settings, Pages, tick <strong>Enforce HTTPS</strong> once the domain check is green.</td>
+</tr>
+<tr>
+<td>Form says it could not send</td>
+<td>Check the Formspree address is pasted exactly and your Formspree email is confirmed.</td>
+</tr>
+<tr>
+<td>Editing screen errors</td>
+<td>Send me a screenshot. Meanwhile edit the files directly on github.com (pencil icon).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>13. Optional: preview on your own computer</h2>
+<p>Install <strong>Node.js</strong> (nodejs.org, LTS). In the website folder run <code>node build.mjs</code>, then <code>node tools/serve.mjs</code>, and open <code>http://localhost:8080</code>. Not needed for normal use.</p>
+<hr />
+<h2>14. What I assumed and could not do</h2>
+<ul>
+<li><strong>No real contact details, prices, team or testimonials were provided</strong>, so none are shown. Prices are deliberately not published (your catalogue leaves fees for a quote); the Plans page says fees are quoted after a discovery call.</li>
+<li><strong>Placeholder values:</strong> domain <code>yaqeenadvisory.com</code>, email <code>hello@yaqeenadvisory.com</code>, city Kozhikode (used in Google's structured data). Change them in Site settings.</li>
+<li><strong>I worked offline</strong>, so the Inter font loads from Google Fonts on the live site, the editing-screen config was not tested in your Pages CMS account, and I could not check domain availability.</li>
+<li><strong>Hosting:</strong> free GitHub Pages. If you outgrow it later, the same files can move to Cloudflare Pages or Netlify (build command <code>node build.mjs</code>, publish folder <code>dist</code>).</li>
+<li><strong>Languages:</strong> English only for now. An Arabic version for GCC visitors is a natural next step.</li>
+</ul></main></body></html>
